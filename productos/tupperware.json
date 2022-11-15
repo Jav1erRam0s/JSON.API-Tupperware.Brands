@@ -1,0 +1,167 @@
+{
+  "productos": [
+    {
+      "codigo": "62850-8",
+      "nombre": "Mini contenedor",
+      "descripcion": "Capacidad : 200 ml\nMedida : 7.2 x 7.2 x 6 cm\nColores : coral x 2, papaya x 2 y turquesa x 2.",
+      "precio": 500,
+      "capacidad": 200,
+      "stock": 6,
+      "imgvid": [
+        "https://i.ibb.co/QvL5tCv/mini-contenedor-coral.png",
+        "https://i.ibb.co/W3672bv/mini-contenedor-papaya.png",
+        "https://i.ibb.co/5nvzmtm/mini-contenedor-turquesa.png"]
+    },
+    {
+      "codigo": "61970-1",
+      "nombre": "Vaso infantil",
+      "descripcion": "Fabricado en material resistente, para que los niños beban con mayor seguridad.\nCapacidad : 200 ml\nMedida :  Ø 7.5 cm - ∆ 9.5 cm\nColores : fucsia x 2, verde x 2, turquesa x 2 y naranja x 2.",
+      "precio": 550,
+      "capacidad": 200,
+      "stock": 8,
+      "imgvid": [
+        "https://i.ibb.co/7zDq6v5/vaso-infantil-turquesa.png",
+        "https://i.ibb.co/sJn2QV2/vaso-infantil-verde.png",
+        "https://i.ibb.co/BKW5wdV/vaso-infantil-naranja.png",
+        "https://i.ibb.co/pfST5rj/vaso-infantil-fucsia.png"]
+    },
+    {
+      "codigo": "49658-6",
+      "nombre": "Cubetera con tapa",
+      "descripcion": "Capacidad : 14 cubos\nMedida : 30 x 11 x 4 cm\nColor : verde agua",
+      "precio": 1800,
+      "capacidad": null,
+      "stock": 8,
+      "imgvid": [
+        "https://i.ibb.co/3Sd2nhz/cubetera-con-tapa-1.png",
+        "https://i.ibb.co/bdTKsk9/cubetera-con-tapa-2.jpg"
+      ]
+    },
+    {
+      "codigo": "62345-8",
+      "nombre": "Jarra aqua",
+      "descripcion": "Capacidad : 1.9 L\nMedida : 19 x 9.5 x 23.7 cm\nColor : azul petroleo",
+      "precio": 3800,
+      "capacidad": 1900,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/yNcdMV0/jarra-aqua-1.jpg",
+        "https://i.ibb.co/vsqYcnD/jarra-aqua-2.jpg",
+        "https://i.ibb.co/hDqBHxb/jarra-aqua-3.jpg"
+      ]
+    },
+    {
+      "codigo": "61945-9",
+      "nombre": "Guarda delicias",
+      "descripcion": "Para servir en la mesa o tener sobre la mesada panes, budines, muffins, galletas y todo tipo de panificados.\nMedida : 17.5 x 19 x 11 cm\nColor : lila",
+      "precio": 2800,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/R34yCTj/guarda-delicias.jpg"]
+    },
+    {
+      "codigo": "61290-8",
+      "nombre": "Dosificador de azucar",
+      "descripcion": "Para conservar y servir azucar de manera facil y practica. Su diseño permite dosificar tambien con la medida justa de una cucharadita.\nCapacidad : 350 ml\nMedida : Ø 7 cm - ∆ 18.5 cm",
+      "precio": 2800,
+      "capacidad": 350,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/RDJk6Lg/dosificador-de-azucar-1.jpg",
+        "https://i.ibb.co/wL0Nhby/dosificador-de-azucar-2.jpg",
+        "https://i.ibb.co/Hz6d0L7/dosificador-de-azucar-3.jpg"
+      ]
+    },
+    {
+      "codigo": "48511-8",
+      "nombre": "Taza milano",
+      "descripcion": "Capacidad : 280 ml\nMedida : Ø 8.4 cm - ∆ 9 cm\nColor : turquesa",
+      "precio": 1000,
+      "capacidad": 280,
+      "stock": 4,
+      "imgvid": ["https://i.ibb.co/2SkDLDb/taza-milano.jpg"]
+    },
+    {
+      "codigo": "62239-4",
+      "nombre": "Hermetico toque magico galletas",
+      "descripcion": "Para mantener los alimentos secos libres de humedad por mas tiempo. Sello Toque Magico, cierra hermeticamente al presionar el centro\nCapacidad : 4.4 L\nMedida : Ø 19 cm - ∆ 21.5 cm",
+      "precio": 3500,
+      "capacidad": 4400,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/c6DwSQ3/hermetico-toque-magico-galletas-1.png",
+        "https://i.ibb.co/Hgc30y6/hermetico-toque-magico-galletas-2.jpg",
+        "https://i.ibb.co/1vp4y3Q/hermetico-toque-magico-galletas-3.png"
+      ]
+    },
+    {
+      "codigo": "62879-4",
+      "nombre": "Actualite bowl",
+      "descripcion": "Capacidad : 330 ml\nMedida : Ø 12 cm - ∆ 8 cm\nColor : Verde lima",
+      "precio": 900,
+      "capacidad": 330,
+      "stock": 4,
+      "imgvid": [
+        "https://i.ibb.co/qj86Br2/actualite-bowl-1.png",
+        "https://i.ibb.co/XZSg91P/actualite-bowl-2.png",
+        "https://i.ibb.co/wwGm8fH/actualite-bowl-3.jpg"
+      ]
+    },
+    {
+      "codigo": "62206-0",
+      "nombre": "Practi delicias",
+      "descripcion": "Para preparar pasteles individuales de manera facil y rapida.\nMedida : Ø 10.5 cm\nColor disponible : Papaya",
+      "precio": 1000,
+      "capacidad": null,
+      "stock": 0,
+      "imgvid": [
+        "https://i.ibb.co/zGHnFvj/practi-delicia-1.jpg",
+        "https://i.ibb.co/pWcQDG4/practi-delicia-2.jpg",
+        "https://i.ibb.co/YT76XVt/practi-delicia-3.jpg",
+        "https://www.youtube.com/embed/a4bIbwxZNeE"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Prensa hamburguesa",
+      "descripcion": "Medida Prensa : Ø 9 cm - ∆ 8 cm\nMedida Aro : Ø 10.8 cm - ∆ 5 cm\nColor disponible : verde agua",
+      "precio": 800,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/CPDXvyM/prensa-hamburguesa-1.jpg",
+        "https://i.ibb.co/30GvWsK/prensa-hamburguesa-2.jpg"
+      ]
+    },
+    {
+      "codigo": "61127-8",
+      "nombre": "Sandwichera redonda",
+      "descripcion": "Capacidad : 650 ml\nMedidas : Ø 14 cm - Δ 6,5 cm\nColor : Azul petroleo",
+      "precio": 1800,
+      "capacidad": 650,
+      "stock": 0,
+      "imgvid": [
+        "https://i.ibb.co/RyMKKXy/sandwichera-redonda-1.jpg",
+        "https://i.ibb.co/ScZY3Wb/sandwichera-redonda-2.jpg"
+      ]
+    },
+    {
+      "codigo": "62859-9",
+      "nombre": "Cuchara para helado",
+      "descripcion": "Largo : 19,5 cm\nColor : salmon",
+      "precio": 700,
+      "capacidad": null,
+      "stock": 2,
+      "imgvid": ["https://i.ibb.co/3vWPmGY/cuchara-para-helado.jpg"]
+    },
+    {
+      "codigo": "62860-0",
+      "nombre": "Cuchara para helado",
+      "descripcion": "Largo : 19,5 cm\nColor : verde",
+      "precio": 700,
+      "capacidad": null,
+      "stock": 2,
+      "imgvid": ["https://i.ibb.co/4Zbcyx6/cuchara-para-helado.jpg"]
+    }
+  ]
+}
