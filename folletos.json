@@ -1,6 +1,11 @@
 {
   "folletos": [
     {
+      "nombre": "N° 18",
+      "enlace": "https://cdn.ipaper.io/Tupperware/Papers/47cc0a6f-740f-47f9-b8d6-7eb9781edd87/Print.pdf?response-content-disposition=inline;filename=Print.pdf&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uaXBhcGVyLmlvL1R1cHBlcndhcmUvUGFwZXJzLzQ3Y2MwYTZmLTc0MGYtNDdmOS1iOGQ2LTdlYjk3ODFlZGQ4Ny8qLnBkZioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2Njg5MTE3NzJ9fX1dfQ__&Signature=MvUsL9YMXuJHQ3DtlEmzIzh5gNIviaWQoxDKBRASsdPPw1pTosflNPkiEOFZ7nDYhg2FE4if~yaXjuiKL6LXmrGCtNsUgKe9zE5KOP8hambXxE1OF4Vd3sW9O4JDqSPAsDHqefLzvakozLjn~Q9CW943uiELnDJjZrAQg~w4TyQ_&Key-Pair-Id=APKAIPGQN6BDBMBZ2LCA",
+      "cierra": "2022-11-28"
+    },
+    {
       "nombre": "N° 17",
       "enlace": "https://cdn.ipaper.io/Tupperware/Files/380b1310-9546-4991-a40a-68b7cc8bfa61.pdf?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4uaXBhcGVyLmlvL1R1cHBlcndhcmUvRmlsZXMvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTY5Nzc0MjIxM319fV19&Signature=kP~Mj7kvB1Fl4arjl5g~1HogFYgfp3xB-9MVMiyIsgLXgozGyEAG8qF5p9BNEY7JFs5C4X~6yfo789mVOb343mfeMV2v7N-KiK8NWMVSJiZU5BTc2cmZUOUy2CREdf47-iCXUevDCmqX7XwyQqQWDy4uPZf91cWtLj1r44SqGLs_&Key-Pair-Id=APKAIPGQN6BDBMBZ2LCA",
       "cierra": "2022-11-08"
