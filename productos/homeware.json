@@ -1,3 +1,13 @@
 {
-  "productos": []
+  "productos": [
+    {
+      "codigo": "62850-8",
+      "nombre": "Churrera hojalata",
+      "descripcion": "-",
+      "precio": 0,
+      "capacidad": null,
+      "stock": 2,
+      "imgvid": ["https://i.ibb.co/9yGF0xd/churrera-hojalata.jpg"]
+    }
+  ]
 }

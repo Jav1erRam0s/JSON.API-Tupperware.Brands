@@ -4,22 +4,20 @@
       "nombre": "Promo Set x 4 ",
       "descripcion": "Vaso infantil. Material resistente. Colores distintos.",
       "precio": 2000,
-      "imagen": "https://i.ibb.co/4twqVgc/promo-1.jpg",
-      "enable": true
+      "imagen": "https://i.ibb.co/4twqVgc/promo-1.jpg"
     },
     {
       "nombre": "Promo 2 x 1 ½",
       "descripcion": "Cuchara para helado iguales o diferentes",
       "precio": 1050,
-      "imagen": "https://i.ibb.co/Syw0scD/promo-2.jpg",
-      "enable": true
+      "imagen": "https://i.ibb.co/Syw0scD/promo-2.jpg"
     },
     {
       "nombre": "Promo 3",
       "descripcion": "Mini contenedores de 200 ml x 3. Colores turquesa, papaya y coral.",
       "precio": 1300,
-      "imagen": "https://i.ibb.co/tBnZ5GT/promo-3.jpg",
-      "enable": true
+      "imagen": "https://i.ibb.co/tBnZ5GT/promo-3.jpg"
     }
-  ]
+  ],
+  "enable": true
 }
