@@ -30,10 +30,10 @@
     {
       "codigo": "49658-6",
       "nombre": "Cubetera con tapa",
-      "descripcion": "Capacidad : 14 cubos\nMedida : 30 x 11 x 4 cm\nColor : verde agua",
+      "descripcion": "Capacidad : 14 cubos\nMedida : 30 x 11 x 4 cm\nColor : verde agua y amarillo",
       "precio": 1800,
       "capacidad": null,
-      "stock": 8,
+      "stock": 13,
       "imgvid": [
         "https://i.ibb.co/3Sd2nhz/cubetera-con-tapa-1.png",
         "https://i.ibb.co/bdTKsk9/cubetera-con-tapa-2.jpg"
@@ -45,7 +45,7 @@
       "descripcion": "Capacidad : 1.9 L\nMedida : 19 x 9.5 x 23.7 cm\nColor : azul petroleo",
       "precio": 3800,
       "capacidad": 1900,
-      "stock": 1,
+      "stock": 2,
       "imgvid": [
         "https://i.ibb.co/yNcdMV0/jarra-aqua-1.jpg",
         "https://i.ibb.co/vsqYcnD/jarra-aqua-2.jpg",
@@ -55,10 +55,10 @@
     {
       "codigo": "61945-9",
       "nombre": "Guarda delicias",
-      "descripcion": "Para servir en la mesa o tener sobre la mesada panes, budines, muffins, galletas y todo tipo de panificados.\nMedida : 17.5 x 19 x 11 cm\nColor : lila",
+      "descripcion": "Para servir en la mesa o tener sobre la mesada panes, budines, muffins, galletas y todo tipo de panificados.\nMedida : 17.5 x 19 x 11 cm\nColor : verde y lila",
       "precio": 2800,
       "capacidad": null,
-      "stock": 1,
+      "stock": 2,
       "imgvid": ["https://i.ibb.co/R34yCTj/guarda-delicias.jpg"]
     },
     {
@@ -67,7 +67,7 @@
       "descripcion": "Para conservar y servir azucar de manera facil y practica. Su diseño permite dosificar tambien con la medida justa de una cucharadita.\nCapacidad : 350 ml\nMedida : Ø 7 cm - ∆ 18.5 cm",
       "precio": 2800,
       "capacidad": 350,
-      "stock": 1,
+      "stock": 2,
       "imgvid": [
         "https://i.ibb.co/RDJk6Lg/dosificador-de-azucar-1.jpg",
         "https://i.ibb.co/wL0Nhby/dosificador-de-azucar-2.jpg",
@@ -77,11 +77,14 @@
     {
       "codigo": "48511-8",
       "nombre": "Taza milano",
-      "descripcion": "Capacidad : 280 ml\nMedida : Ø 8.4 cm - ∆ 9 cm\nColor : turquesa",
+      "descripcion": "Capacidad : 280 ml\nMedida : Ø 8.4 cm - ∆ 9 cm\nColores : turquesa, fucsia, verde lima, celeste y azul petroleo",
       "precio": 1000,
       "capacidad": 280,
-      "stock": 4,
-      "imgvid": ["https://i.ibb.co/2SkDLDb/taza-milano.jpg"]
+      "stock": 22,
+      "imgvid": [
+        "https://i.ibb.co/2SkDLDb/taza-milano.jpg",
+        "https://i.ibb.co/3k10yyr/taza-milano-2.jpg"
+      ]
     },
     {
       "codigo": "62239-4",
@@ -99,10 +102,10 @@
     {
       "codigo": "62879-4",
       "nombre": "Actualite bowl",
-      "descripcion": "Capacidad : 330 ml\nMedida : Ø 12 cm - ∆ 8 cm\nColor : Verde lima",
+      "descripcion": "Capacidad : 330 ml\nMedida : Ø 12 cm - ∆ 8 cm\nColores : Turquesa, papaya, rojo, verde lima, morado, agua marina y petroleo",
       "precio": 900,
       "capacidad": 330,
-      "stock": 4,
+      "stock": 19,
       "imgvid": [
         "https://i.ibb.co/qj86Br2/actualite-bowl-1.png",
         "https://i.ibb.co/XZSg91P/actualite-bowl-2.png",
@@ -126,7 +129,7 @@
     {
       "codigo": "62587-8",
       "nombre": "Prensa hamburguesa",
-      "descripcion": "Medida Prensa : Ø 9 cm - ∆ 8 cm\nMedida Aro : Ø 10.8 cm - ∆ 5 cm\nColor disponible : verde agua",
+      "descripcion": "Medida Prensa : Ø 9 cm - ∆ 8 cm\nMedida Aro : Ø 10.8 cm - ∆ 5 cm\nColor : Verde agua",
       "precio": 800,
       "capacidad": null,
       "stock": 1,
@@ -170,6 +173,19 @@
         "https://i.ibb.co/VxqFcqg/practi-empanada-1.webp",
         "https://i.ibb.co/8dWSw47/practi-empanada-2.jpg",
         "https://www.youtube.com/embed/a4bIbwxZNeE"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Prensa y porta hamburguesas",
+      "descripcion": "Medida Prensa : Ø 9 cm - ∆ 8 cm\nMedida Aro : Ø 10.8 cm - ∆ 5 cm\nPorta hamburguesa para 4 unidades\nColor : Verde",
+      "precio": 1500,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/fX8xtFk/prensa-y-porta-hamburguesa-1.webp",
+        "https://i.ibb.co/ZX2pN6W/prensa-y-porta-hamburguesa-2.webp",
+        "https://www.youtube.com/embed/3-J0iwQuROk"
       ]
     }
   ]
