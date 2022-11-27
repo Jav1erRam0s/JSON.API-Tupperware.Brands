@@ -219,6 +219,72 @@
       "capacidad": 1700,
       "stock": 3,
       "imgvid": ["https://i.ibb.co/b3zXVZJ/cristalwave-1-7lt.jpg"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Actualite tutti champ 2 Lt",
+      "descripcion": "Capacidad : 2 Lt\nMedida : 32 x 21.5 x 8.7 cm\nColor : verde lima y rojo",
+      "precio": 3500,
+      "capacidad": 2000,
+      "stock": 3,
+      "imgvid": ["https://i.ibb.co/0f9shtc/actualite-tutti-charm-2lt.png"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Actualite tutti champ 2 Lt",
+      "descripcion": "Capacidad : 2 Lt\nMedida : 32 x 21.5 x 8.7 cm\nColores : verde lima y rojo",
+      "precio": 3500,
+      "capacidad": 2000,
+      "stock": 3,
+      "imgvid": ["https://i.ibb.co/0f9shtc/actualite-tutti-charm-2lt.png"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Actualite maxi champ 2.5 Lt",
+      "descripcion": "Capacidad : 2.5 Lt\nMedida : 23 x 23 x 13 cm\nColores : verde lima, rojo y turquesa",
+      "precio": 3500,
+      "capacidad": 2500,
+      "stock": 6,
+      "imgvid": ["https://i.ibb.co/vB9KQRZ/actualite-maxi-champ-2-5lt.jpg"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Modular rect 4.3 Lt",
+      "descripcion": "Capacidad : 4.5 Lt\nMedida : 28.5 cm x 18.5 cm x 12 cm\nColores : verde lima y morado",
+      "precio": 4200,
+      "capacidad": 4300,
+      "stock": 7,
+      "imgvid": ["https://i.ibb.co/VNY9GQd/modular-rectangular-4-3lt.png"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Modular rect 4.3 Lt",
+      "descripcion": "Capacidad : 4.5 Lt\nMedida : 28.5 cm x 18.5 cm x 12 cm\nColores : verde lima y morado",
+      "precio": 4200,
+      "capacidad": 4300,
+      "stock": 7,
+      "imgvid": ["https://i.ibb.co/VNY9GQd/modular-rectangular-4-3lt.png"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Superfreezee rectangular",
+      "descripcion": "Capacidad : 3 Lt\nMedida : 29.3 x 15 x 9 cm\nColores : wasabi y verde lima",
+      "precio": 3800,
+      "capacidad": 3000,
+      "stock": 3,
+      "imgvid": [
+        "https://i.ibb.co/FJ6jvrM/superfreezee-rectangular-1.jpg",
+        "https://i.ibb.co/YkSjCHt/superfreezee-rectangular-2.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Sensacion bowl 1.8 Lt",
+      "descripcion": "Capacidad : 1.8 Lt\nMedida : Ø 21 cm - ∆ 11.7 cm\nColor : rojo",
+      "precio": 3000,
+      "capacidad": 1800,
+      "stock": 4,
+      "imgvid": ["https://i.ibb.co/zxR7PLj/sensacion-bowl-1-8lt.jpg"]
     }
   ]
 }
