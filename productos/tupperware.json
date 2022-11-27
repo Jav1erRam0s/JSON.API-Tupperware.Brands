@@ -231,30 +231,12 @@
     },
     {
       "codigo": "62587-8",
-      "nombre": "Actualite tutti champ 2 Lt",
-      "descripcion": "Capacidad : 2 Lt\nMedida : 32 x 21.5 x 8.7 cm\nColores : verde lima y rojo",
-      "precio": 3500,
-      "capacidad": 2000,
-      "stock": 3,
-      "imgvid": ["https://i.ibb.co/0f9shtc/actualite-tutti-charm-2lt.png"]
-    },
-    {
-      "codigo": "62587-8",
       "nombre": "Actualite maxi champ 2.5 Lt",
       "descripcion": "Capacidad : 2.5 Lt\nMedida : 23 x 23 x 13 cm\nColores : verde lima, rojo y turquesa",
       "precio": 3500,
       "capacidad": 2500,
       "stock": 6,
       "imgvid": ["https://i.ibb.co/vB9KQRZ/actualite-maxi-champ-2-5lt.jpg"]
-    },
-    {
-      "codigo": "62587-8",
-      "nombre": "Modular rect 4.3 Lt",
-      "descripcion": "Capacidad : 4.5 Lt\nMedida : 28.5 cm x 18.5 cm x 12 cm\nColores : verde lima y morado",
-      "precio": 4200,
-      "capacidad": 4300,
-      "stock": 7,
-      "imgvid": ["https://i.ibb.co/VNY9GQd/modular-rectangular-4-3lt.png"]
     },
     {
       "codigo": "62587-8",
