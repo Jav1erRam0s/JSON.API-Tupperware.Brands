@@ -267,6 +267,15 @@
       "capacidad": 1800,
       "stock": 4,
       "imgvid": ["https://i.ibb.co/zxR7PLj/sensacion-bowl-1-8lt.jpg"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Sensacion bowl 4 Lt",
+      "descripcion": "Capacidad : 4 Lt\nMedida : Ø 26.5 cm - ∆ 15 cm\nColor : rojo",
+      "precio": 3500,
+      "capacidad": 4000,
+      "stock": 4,
+      "imgvid": ["https://i.ibb.co/yPLfPft/sensacion-bowl-4lt.jpg"]
     }
   ]
 }
