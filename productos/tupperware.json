@@ -144,7 +144,7 @@
       "descripcion": "Capacidad : 650 ml\nMedidas : Ø 14 cm - Δ 6,5 cm\nColor : Azul petroleo",
       "precio": 1800,
       "capacidad": 650,
-      "stock": 0,
+      "stock": 1,
       "imgvid": [
         "https://i.ibb.co/RyMKKXy/sandwichera-redonda-1.jpg",
         "https://i.ibb.co/ScZY3Wb/sandwichera-redonda-2.jpg"
@@ -156,7 +156,7 @@
       "descripcion": "Largo : 19,5 cm\nColor : verde y salmon",
       "precio": 700,
       "capacidad": null,
-      "stock": 4,
+      "stock": 5,
       "imgvid": [
         "https://i.ibb.co/4MQ1259/cuchara-para-helado-1.jpg",
         "https://i.ibb.co/b26vXS0/cuchara-para-helado-2.jpg"
@@ -274,8 +274,29 @@
       "descripcion": "Capacidad : 4 Lt\nMedida : Ø 26.5 cm - ∆ 15 cm\nColor : rojo",
       "precio": 3500,
       "capacidad": 4000,
-      "stock": 4,
+      "stock": 5,
       "imgvid": ["https://i.ibb.co/yPLfPft/sensacion-bowl-4lt.jpg"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Actualite facilita 900 ml",
+      "descripcion": "Capacidad : 900 ml\nMedida : Ø 17 cm - ∆ 8.5 cm\nColor : -",
+      "precio": 3500,
+      "capacidad": 900,
+      "stock": 2,
+      "imgvid": ["https://i.ibb.co/9VP4Svv/actualite-facilita-900ml.webp"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Actualite facilita 500 ml",
+      "descripcion": "Capacidad : 500 ml\nMedida : Ø 17 cm - ∆ 6 cm\nColores : tuquesa, amarillo y rojo",
+      "precio": 3500,
+      "capacidad": 500,
+      "stock": 9,
+      "imgvid": [
+        "https://i.ibb.co/Q6Bytxt/actualite-facilita-500ml-1.webp",
+        "https://i.ibb.co/qY3nzmg/actualite-facilita-500ml-2.jpg"
+      ]
     }
   ]
 }
