@@ -89,7 +89,7 @@
     {
       "codigo": "62239-4",
       "nombre": "Hermetico toque magico galletas",
-      "descripcion": "Para mantener los alimentos secos libres de humedad por mas tiempo. Sello Toque Magico, cierra hermeticamente al presionar el centro\nCapacidad : 4.4 L\nMedida : Ø 19 cm - ∆ 21.5 cm",
+      "descripcion": "Para mantener los alimentos secos libres de humedad por mas tiempo. Sello Toque Magico, cierra hermeticamente al presionar el centro\nCapacidad : 4.4 Lt\nMedida : Ø 19 cm - ∆ 21.5 cm\nColores : galleta, azucar, rojo y blanco, verde y blanco",
       "precio": 3500,
       "capacidad": 4400,
       "stock": 1,
@@ -296,6 +296,54 @@
       "imgvid": [
         "https://i.ibb.co/Q6Bytxt/actualite-facilita-500ml-1.webp",
         "https://i.ibb.co/qY3nzmg/actualite-facilita-500ml-2.jpg"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Fiambrera apilable",
+      "descripcion": "Medida : 26 x 16.5 x 7 cm\nColor : verde",
+      "precio": 3500,
+      "capacidad": null,
+      "stock": 3,
+      "imgvid": [
+        "https://i.ibb.co/PWc5KPg/fiambrera-apilable-1.jpg",
+        "https://i.ibb.co/vVQ0Dm0/fiambrera-apilable-2.jpg"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Vaso campana",
+      "descripcion": "Capacidad : 525 ml\nMedida : Ø 9.5 cm - ∆ 13.5 cm\nColores : turquesa, naranja, verde, rojo y fucsia",
+      "precio": 600,
+      "capacidad": 525,
+      "stock": 35,
+      "imgvid": [
+        "https://i.ibb.co/GVvBC4t/vaso-campana-1.jpg",
+        "https://i.ibb.co/DWzxzd1/vaso-campana-2.jpg"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Practi jarra",
+      "descripcion": "Capacidad : 2 Lt\nMedida : 26 x 16.5 x 7 cm\nColores : tropical, turquesa y roja",
+      "precio": 160,
+      "capacidad": 2000,
+      "stock": 5,
+      "imgvid": [
+        "https://i.ibb.co/kKGKzLT/practi-jarra-1.jpg",
+        "https://i.ibb.co/3cL8BvB/practi-jarra-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Sensacion bowl 600 ml",
+      "descripcion": "Capacidad : 600 ml\nMedida : Ø 9.5 cm - ∆ 11.7 cm\nColores : verde lima, tuquesa, papaya y sandia",
+      "precio": 550,
+      "capacidad": 600,
+      "stock": 15,
+      "imgvid": [
+        "https://i.ibb.co/XVtJy5L/sensacion-bowl-600ml-1.webp",
+        "https://i.ibb.co/9tYQbG5/sensacion-bowl-600ml-2.jpg"
       ]
     }
   ]
