@@ -399,6 +399,42 @@
         "https://i.ibb.co/nj599SX/picadora-chef-6.webp",
         "https://www.youtube.com/embed/lhyLNrEIrDA"
       ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Jarra con manija",
+      "descripcion": "Medida : 17 x 9.5 x 20.5 cm\nColores : aruba y coral",
+      "precio": 4000,
+      "capacidad": 2000,
+      "stock": 3,
+      "imgvid": [
+        "https://i.ibb.co/mNN750M/jarra-con-manija-1.webp",
+        "https://i.ibb.co/K5d3Gy7/jarra-con-manija-2.webp",
+        "https://i.ibb.co/yS20HQy/jarra-con-manija-3.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Superfreezee 10 Lt",
+      "descripcion": "Medida : Ø 30.5 cm - ∆ 15.5 cm\nColor : verde menta",
+      "precio": 5600,
+      "capacidad": 10000,
+      "stock": 6,
+      "imgvid": ["https://i.ibb.co/LN3G83K/superfreezee-10lt.jpg"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Mando chef",
+      "descripcion": "Medida : 36 x 12.5 x 7.3 cm",
+      "precio": 18500,
+      "capacidad": null,
+      "stock": 3,
+      "imgvid": [
+        "https://i.ibb.co/267CRJ2/mando-chef-1.jpg",
+        "https://i.ibb.co/NYLfpX2/mando-chef-2.jpg",
+        "https://i.ibb.co/n8Hs7nf/mando-chef-3.jpg",
+        "https://www.youtube.com/embed/3aEZqu7jY0g"
+      ]
     }
   ]
 }
