@@ -345,6 +345,60 @@
         "https://i.ibb.co/4YVVyPr/sensacion-bowl-600ml-1.webp",
         "https://i.ibb.co/M5kpzkC/sensacion-bowl-600ml-2.jpg"
       ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Jarra luxury",
+      "descripcion": "Capacidad : 2 Lt\nMedida : Ø 12 cm - ∆ 29.5 cm\nColor : violeta",
+      "precio": 2500,
+      "capacidad": 2000,
+      "stock": 2,
+      "imgvid": [
+        "https://i.ibb.co/XCCpGGd/jarra-luxury-1.webp",
+        "https://i.ibb.co/G51R0J6/jarra-luxury-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Practi refri",
+      "descripcion": "Capacidad : 900 ml\nMedida : 12.5 x 11.5 x 9 cm\nColores : lila, wasabi, papaya, verde transparente, rojo transparente, coral transparente y violeta transparente",
+      "precio": 1100,
+      "capacidad": 900,
+      "stock": 7,
+      "imgvid": [
+        "https://i.ibb.co/Fs0z2Vv/practi-refri-900ml-1.png",
+        "https://i.ibb.co/93FqV7S/practi-refri-900ml-2.jpg"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Sandwichera cuadrada",
+      "descripcion": "Capacidad : 650 ml\nMedida : 13.5 x 13 x 5 cm\nColores : fucsia, spiderman y batman",
+      "precio": 1300,
+      "capacidad": 650,
+      "stock": 4,
+      "imgvid": [
+        "https://i.ibb.co/0KgrXt7/sandwichera-1.jpg",
+        "https://i.ibb.co/vzdxy8f/sandwichera-2.webp",
+        "https://i.ibb.co/vmqX18F/sandwichera-3.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Picadora chef",
+      "descripcion": "Medida : 27 x 13 x 25 cm",
+      "precio": 18000,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/xmFKxZV/picadora-chef-1.jpg",
+        "https://i.ibb.co/cJ7SJ6S/picadora-chef-2.jpg",
+        "https://i.ibb.co/p10D4jM/picadora-chef-3.jpg",
+        "https://i.ibb.co/n64nSt0/picadora-chef-4.jpg",
+        "https://i.ibb.co/NpP5M3z/picadora-chef-5.jpg",
+        "https://i.ibb.co/nj599SX/picadora-chef-6.webp",
+        "https://www.youtube.com/embed/lhyLNrEIrDA"
+      ]
     }
   ]
 }
