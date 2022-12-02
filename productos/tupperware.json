@@ -430,7 +430,7 @@
       "capacidad": null,
       "stock": 3,
       "imgvid": [
-        "https://i.ibb.co/267CRJ2/mando-chef-1.jpg",
+        "https://i.ibb.co/BGy51G3/mando-chef-1.webp",
         "https://i.ibb.co/NYLfpX2/mando-chef-2.jpg",
         "https://i.ibb.co/n8Hs7nf/mando-chef-3.jpg",
         "https://www.youtube.com/embed/3aEZqu7jY0g"
@@ -491,6 +491,51 @@
         "https://i.ibb.co/CHJYnwR/extra-chef-1.png",
         "https://i.ibb.co/tc1NDNJ/extra-chef-2.png",
         "https://www.youtube.com/embed/wVftDJ6eBRY"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Bowl creativa 14 Lt",
+      "descripcion": "Capacidad : 14 Lt\nMedida : Ø 35 cm - ∆ 22 cm\nColor : verde lima\nPara mezclar, amasar y dejar levar. El sello salta solo avisando que la masa ya levó.",
+      "precio": 11500,
+      "capacidad": 14000,
+      "stock": 4,
+      "imgvid": [
+        "https://i.ibb.co/gRtgJRF/bowl-creativa-14-lt-1.webp",
+        "https://i.ibb.co/dGmMYj0/bowl-creativa-14-lt-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Bowl creativa 10 Lt",
+      "descripcion": "Capacidad : 10 Lt\nMedida : Ø 30.5 cm - ∆ 18 cm\nColor : lila\nPara mezclar, amasar y dejar levar. El sello salta solo avisando que la masa ya levó.",
+      "precio": 8500,
+      "capacidad": 10000,
+      "stock": 2,
+      "imgvid": ["https://i.ibb.co/THLtKJX/bowl-creativa-10-lt.png"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Refri inteligente 8 Lt",
+      "descripcion": "Capacidad : 8 Lt\nMedida : 30 x 30 x 12.5 cm\nColor : lila\nCuenta con dos válvulas para regular la circulación del aire segun la fruta o verdura.",
+      "precio": 8500,
+      "capacidad": 8000,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/bmrH2wf/refri-inteligente-8-lt-1.webp",
+        "https://i.ibb.co/vVK97cX/refri-inteligente-2.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Refri inteligente 1.6 Lt",
+      "descripcion": "Capacidad : 1.6 Lt\nMedida : 22.5 x 15 x 8.5 cm\nColor : amarillo\nCuenta con dos válvulas para regular la circulación del aire segun la fruta o verdura.",
+      "precio": 2500,
+      "capacidad": 1600,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/WFNWK2j/refri-inteligente-1-6-lt-1.png",
+        "https://i.ibb.co/vVK97cX/refri-inteligente-2.png"
       ]
     }
   ]
