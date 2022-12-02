@@ -435,6 +435,63 @@
         "https://i.ibb.co/n8Hs7nf/mando-chef-3.jpg",
         "https://www.youtube.com/embed/3aEZqu7jY0g"
       ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Rallador chef",
+      "descripcion": "Medida : 30 x 13 x 25 cm\nTiene 3 tipos de conos para 3 tipos de rallado:\n- Hebras gruesas\n- Hebras finas: Para quesos duros y semiduros, frutas, chocolate, zanahorias, papas, zucchinis, batatas y pan tostado. \n- Rallado extra fino: Para quesos duros, frutos secos, galletitas, chocolate, huevo duro y vegetales cocidos como zucchini y zanahorias.",
+      "precio": 20500,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/nwq5LCc/rallador-chef-1.jpg",
+        "https://i.ibb.co/4ZJMP0N/rallador-chef-2.jpg",
+        "https://i.ibb.co/h89YYPz/rallador-chef-3.jpg",
+        "https://i.ibb.co/c29x25c/rallador-chef-4.jpg",
+        "https://www.youtube.com/embed/3noLZEUBpEA"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Exprimidor chef",
+      "descripcion": "Capacidad : 500 ml\nMedida : Ø 11.5 cm - ∆ 19.5 cm\nExprime y tritura creando jugos y batidos con sus frutas favoritas. Su accesorio compresor permite triturar frutos blandos como frutillas, duraznos, uvas, tomates, etc.",
+      "precio": 18700,
+      "capacidad": 500,
+      "stock": 3,
+      "imgvid": [
+        "https://i.ibb.co/xFBXvwk/exprimidor-chef-1.webp",
+        "https://i.ibb.co/JnBnDTX/exprimidor-chef-2.webp",
+        "https://i.ibb.co/YXQpJW2/exprimidor-chef-3.webp",
+        "https://i.ibb.co/CvwYMCB/exprimidor-chef-4.webp",
+        "https://www.youtube.com/embed/aOIUXAkANZ0"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Mini chef",
+      "descripcion": "Capacidad : 300 ml\nMedida : Ø 11 cm - ∆ 9.5 cm\nColor : verde\nCorta, pica y tritura alimentos de manera fácil, práctica y rápida.\nCon Sello 100% hermético. Permite guardar las preparaciones en el mismo recipiente sin necesidad de cambiarlo a otro.",
+      "precio": 8500,
+      "capacidad": 300,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/nzF6SBh/mini-chef-1.webp",
+        "https://i.ibb.co/42FPwNQ/mini-chef-2.png",
+        "https://i.ibb.co/DWjfWgV/mini-chef-3.png",
+        "https://www.youtube.com/embed/s9lL_ms9KJw"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Extra chef",
+      "descripcion": "Capacidad : 1.35 Lt\nMedida : Ø 15.5 cm - ∆ 20 cm\nColor : rojo\nIncluye 3 accesorios:\n- Cuchillas Curvadas: permiten una mejor circulación de los ingredientes, mayor velocidad y precisión en los cortes. Y no te preocupes por su filo, porque incluyen un protector plástico que las mantiene a salvo y seguras.\n- Batidor: sirve para integrar, mezclar y batir alimentos.\n- Embudo dosificador: viene con escalas de medidas grabas para agregar líquidos a la prepación sin necesidad de abrir la tapa. Se puede usar en dos posiciones: cerrado para medir y abierto para verter mientras se mezcla.",
+      "precio": 15500,
+      "capacidad": 1350,
+      "stock": 2,
+      "imgvid": [
+        "https://i.ibb.co/CHJYnwR/extra-chef-1.png",
+        "https://i.ibb.co/tc1NDNJ/extra-chef-2.png",
+        "https://www.youtube.com/embed/wVftDJ6eBRY"
+      ]
     }
   ]
 }
