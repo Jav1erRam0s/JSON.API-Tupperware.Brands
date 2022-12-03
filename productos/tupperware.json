@@ -16,7 +16,7 @@
     {
       "codigo": "61970-1",
       "nombre": "Vaso infantil",
-      "descripcion": "Fabricado en material resistente, para que los niños beban con mayor seguridad.\nCapacidad : 200 ml\nMedida :  Ø 7.5 cm - ∆ 9.5 cm\nColores : fucsia x 2, verde x 2, turquesa x 2 y naranja x 2.",
+      "descripcion": "Capacidad : 200 ml\nFabricado en material resistente, para que los niños beban con mayor seguridad.\nCapacidad : 200 ml\nMedida :  Ø 7.5 cm - ∆ 9.5 cm\nColores : fucsia x 2, verde x 2, turquesa x 2 y naranja x 2.",
       "precio": 1.24,
       "capacidad": 200,
       "stock": 8,
@@ -42,7 +42,7 @@
     {
       "codigo": "62345-8",
       "nombre": "Jarra aqua",
-      "descripcion": "Capacidad : 1.9 L\nMedida : 19 x 9.5 x 23.7 cm\nColor : azul petroleo",
+      "descripcion": "Capacidad : 1.9 Lt\nMedida : 19 x 9.5 x 23.7 cm\nColor : azul petroleo",
       "precio": 3800,
       "capacidad": 1900,
       "stock": 2,
@@ -55,7 +55,7 @@
     {
       "codigo": "61945-9",
       "nombre": "Guarda delicias",
-      "descripcion": "Para servir en la mesa o tener sobre la mesada panes, budines, muffins, galletas y todo tipo de panificados.\nMedida : 17.5 x 19 x 11 cm\nColor : verde y lila",
+      "descripcion": "Medida : 17.5 x 19 x 11 cm\nPara servir en la mesa o tener sobre la mesada panes, budines, muffins, galletas y todo tipo de panificados.\nMedida : 17.5 x 19 x 11 cm\nColor : verde y lila",
       "precio": 2800,
       "capacidad": null,
       "stock": 2,
@@ -64,7 +64,7 @@
     {
       "codigo": "61290-8",
       "nombre": "Dosificador de azucar",
-      "descripcion": "Para conservar y servir azucar de manera facil y practica. Su diseño permite dosificar tambien con la medida justa de una cucharadita.\nCapacidad : 350 ml\nMedida : Ø 7 cm - ∆ 18.5 cm",
+      "descripcion": "Capacidad : 350 ml\nMedida : Ø 7 cm - ∆ 18.5 cm\nPara conservar y servir azucar de manera facil y practica. Su diseño permite dosificar tambien con la medida justa de una cucharadita.\nCapacidad : 350 ml\nMedida : Ø 7 cm - ∆ 18.5 cm",
       "precio": 2800,
       "capacidad": 350,
       "stock": 2,
@@ -89,7 +89,7 @@
     {
       "codigo": "62239-4",
       "nombre": "Hermetico toque magico galletas",
-      "descripcion": "Para mantener los alimentos secos libres de humedad por mas tiempo. Sello Toque Magico, cierra hermeticamente al presionar el centro\nCapacidad : 4.4 Lt\nMedida : Ø 19 cm - ∆ 21.5 cm\nColores : galleta, azucar, rojo y blanco, verde y blanco",
+      "descripcion": "Capacidad : 4.4 Lt\nMedida : Ø 19 cm - ∆ 21.5 cm\nPara mantener los alimentos secos libres de humedad por mas tiempo. Sello Toque Magico, cierra hermeticamente al presionar el centro\nCapacidad : 4.4 Lt\nMedida : Ø 19 cm - ∆ 21.5 cm\nColores : galleta, azucar, rojo y blanco, verde y blanco",
       "precio": 3500,
       "capacidad": 4400,
       "stock": 1,
@@ -240,8 +240,8 @@
     },
     {
       "codigo": "62587-8",
-      "nombre": "Modular rect 4.3 Lt",
-      "descripcion": "Capacidad : 4.5 Lt\nMedida : 28.5 cm x 18.5 cm x 12 cm\nColores : verde lima y morado",
+      "nombre": "Modular rectangular 4.3 Lt",
+      "descripcion": "Capacidad : 4.3 Lt\nMedida : 28.5 cm x 18.5 cm x 12 cm\nColores : verde lima y morado",
       "precio": 4200,
       "capacidad": 4300,
       "stock": 7,
@@ -403,7 +403,7 @@
     {
       "codigo": "62587-8",
       "nombre": "Jarra con manija",
-      "descripcion": "Medida : 17 x 9.5 x 20.5 cm\nColores : aruba y coral",
+      "descripcion": "Capacidad : 2 Lt\nMedida : 17 x 9.5 x 20.5 cm\nColores : aruba y coral",
       "precio": 4000,
       "capacidad": 2000,
       "stock": 3,
@@ -416,7 +416,7 @@
     {
       "codigo": "62587-8",
       "nombre": "Superfreezee 10 Lt",
-      "descripcion": "Medida : Ø 30.5 cm - ∆ 15.5 cm\nColor : verde menta",
+      "descripcion": "Capacidad : 10 Lt\nMedida : Ø 30.5 cm - ∆ 15.5 cm\nColor : verde menta",
       "precio": 5600,
       "capacidad": 10000,
       "stock": 6,
