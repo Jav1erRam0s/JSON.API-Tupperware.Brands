@@ -4,7 +4,7 @@
       "codigo": "62850-8",
       "nombre": "Mini contenedor",
       "descripcion": "Capacidad : 200 ml\nMedida : 7.2 x 7.2 x 6 cm\nColores : coral x 2, papaya x 2 y turquesa x 2.",
-      "precio": 1.23,
+      "precio": 25600,
       "capacidad": 200,
       "stock": 6,
       "imgvid": [
@@ -17,7 +17,7 @@
       "codigo": "61970-1",
       "nombre": "Vaso infantil",
       "descripcion": "Capacidad : 200 ml\nFabricado en material resistente, para que los niños beban con mayor seguridad.\nCapacidad : 200 ml\nMedida :  Ø 7.5 cm - ∆ 9.5 cm\nColores : fucsia x 2, verde x 2, turquesa x 2 y naranja x 2.",
-      "precio": 1.24,
+      "precio": 1.92,
       "capacidad": 200,
       "stock": 8,
       "imgvid": [
@@ -31,7 +31,7 @@
       "codigo": "49658-6",
       "nombre": "Cubetera con tapa",
       "descripcion": "Capacidad : 14 cubos\nMedida : 30 x 11 x 4 cm\nColor : verde agua y amarillo",
-      "precio": 1800,
+      "precio": 7.05,
       "capacidad": null,
       "stock": 13,
       "imgvid": [
@@ -56,7 +56,7 @@
       "codigo": "61945-9",
       "nombre": "Guarda delicias",
       "descripcion": "Medida : 17.5 x 19 x 11 cm\nPara servir en la mesa o tener sobre la mesada panes, budines, muffins, galletas y todo tipo de panificados.\nMedida : 17.5 x 19 x 11 cm\nColor : verde y lila",
-      "precio": 2800,
+      "precio": 14.74,
       "capacidad": null,
       "stock": 2,
       "imgvid": ["https://i.ibb.co/R34yCTj/guarda-delicias.jpg"]
@@ -78,7 +78,7 @@
       "codigo": "48511-8",
       "nombre": "Taza milano",
       "descripcion": "Capacidad : 280 ml\nMedida : Ø 8.4 cm - ∆ 9 cm\nColores : turquesa, fucsia, verde lima, celeste y azul petroleo",
-      "precio": 1000,
+      "precio": 3.2,
       "capacidad": 280,
       "stock": 22,
       "imgvid": [
@@ -90,7 +90,7 @@
       "codigo": "62239-4",
       "nombre": "Hermetico toque magico galletas",
       "descripcion": "Capacidad : 4.4 Lt\nMedida : Ø 19 cm - ∆ 21.5 cm\nPara mantener los alimentos secos libres de humedad por mas tiempo. Sello Toque Magico, cierra hermeticamente al presionar el centro\nCapacidad : 4.4 Lt\nMedida : Ø 19 cm - ∆ 21.5 cm\nColores : galleta, azucar, rojo y blanco, verde y blanco",
-      "precio": 3500,
+      "precio": 15.06,
       "capacidad": 4400,
       "stock": 1,
       "imgvid": [
@@ -103,7 +103,7 @@
       "codigo": "62879-4",
       "nombre": "Actualite bowl",
       "descripcion": "Capacidad : 330 ml\nMedida : Ø 12 cm - ∆ 8 cm\nColores : Turquesa, papaya, rojo, verde lima, morado, agua marina y petroleo",
-      "precio": 900,
+      "precio": 3.84,
       "capacidad": 330,
       "stock": 19,
       "imgvid": [
@@ -192,7 +192,7 @@
       "codigo": "62587-8",
       "nombre": "Practifreezee",
       "descripcion": "Capacidad : 500 ml\nMedida : 12.5 x 11.5 x 5.5 cm\nColores : verde, morado, aqua, rojo, wasabi, turquesa, fuscia, celeste pastel, rosa pastel y papaya",
-      "precio": 500,
+      "precio": 3.2,
       "capacidad": 500,
       "stock": 21,
       "imgvid": [
@@ -224,7 +224,7 @@
       "codigo": "62587-8",
       "nombre": "Actualite tutti champ 2 Lt",
       "descripcion": "Capacidad : 2 Lt\nMedida : 32 x 21.5 x 8.7 cm\nColor : verde lima y rojo",
-      "precio": 3500,
+      "precio": 17.62,
       "capacidad": 2000,
       "stock": 3,
       "imgvid": ["https://i.ibb.co/0f9shtc/actualite-tutti-charm-2lt.png"]
@@ -233,7 +233,7 @@
       "codigo": "62587-8",
       "nombre": "Actualite maxi champ 2.5 Lt",
       "descripcion": "Capacidad : 2.5 Lt\nMedida : 23 x 23 x 13 cm\nColores : verde lima, rojo y turquesa",
-      "precio": 3500,
+      "precio": 21.79,
       "capacidad": 2500,
       "stock": 6,
       "imgvid": ["https://i.ibb.co/vB9KQRZ/actualite-maxi-champ-2-5lt.jpg"]
@@ -281,7 +281,7 @@
       "codigo": "62587-8",
       "nombre": "Actualite facilita 900 ml",
       "descripcion": "Capacidad : 900 ml\nMedida : Ø 17 cm - ∆ 8.5 cm\nColor : -",
-      "precio": 3500,
+      "precio": 7.05,
       "capacidad": 900,
       "stock": 2,
       "imgvid": ["https://i.ibb.co/9VP4Svv/actualite-facilita-900ml.webp"]
@@ -290,7 +290,7 @@
       "codigo": "62587-8",
       "nombre": "Actualite facilita 500 ml",
       "descripcion": "Capacidad : 500 ml\nMedida : Ø 17 cm - ∆ 6 cm\nColores : tuquesa, amarillo y rojo",
-      "precio": 3500,
+      "precio": 5.76,
       "capacidad": 500,
       "stock": 9,
       "imgvid": [
@@ -302,7 +302,7 @@
       "codigo": "62587-8",
       "nombre": "Fiambrera apilable",
       "descripcion": "Medida : 26 x 16.5 x 7 cm\nColor : verde",
-      "precio": 3500,
+      "precio": 12.82,
       "capacidad": null,
       "stock": 3,
       "imgvid": [
@@ -326,7 +326,7 @@
       "codigo": "62587-8",
       "nombre": "Practi jarra",
       "descripcion": "Capacidad : 2 Lt\nMedida : 26 x 16.5 x 7 cm\nColores : tropical, turquesa y roja",
-      "precio": 160,
+      "precio": 14.42,
       "capacidad": 2000,
       "stock": 5,
       "imgvid": [
@@ -362,7 +362,7 @@
       "codigo": "62587-8",
       "nombre": "Practi refri",
       "descripcion": "Capacidad : 900 ml\nMedida : 12.5 x 11.5 x 9 cm\nColores : lila, wasabi, papaya, verde transparente, rojo transparente, coral transparente y violeta transparente",
-      "precio": 1100,
+      "precio": 5.44,
       "capacidad": 900,
       "stock": 7,
       "imgvid": [
@@ -374,7 +374,7 @@
       "codigo": "62587-8",
       "nombre": "Sandwichera cuadrada",
       "descripcion": "Capacidad : 650 ml\nMedida : 13.5 x 13 x 5 cm\nColores : fucsia, spiderman y batman",
-      "precio": 1300,
+      "precio": 5.44,
       "capacidad": 650,
       "stock": 4,
       "imgvid": [
@@ -387,7 +387,7 @@
       "codigo": "62587-8",
       "nombre": "Picadora chef",
       "descripcion": "Medida : 27 x 13 x 25 cm",
-      "precio": 18000,
+      "precio": 54.48,
       "capacidad": null,
       "stock": 1,
       "imgvid": [
@@ -417,7 +417,7 @@
       "codigo": "62587-8",
       "nombre": "Superfreezee 10 Lt",
       "descripcion": "Capacidad : 10 Lt\nMedida : Ø 30.5 cm - ∆ 15.5 cm\nColor : verde menta",
-      "precio": 5600,
+      "precio": 22.43,
       "capacidad": 10000,
       "stock": 6,
       "imgvid": ["https://i.ibb.co/LN3G83K/superfreezee-10lt.jpg"]
@@ -426,7 +426,7 @@
       "codigo": "62587-8",
       "nombre": "Mando chef",
       "descripcion": "Medida : 36 x 12.5 x 7.3 cm",
-      "precio": 18500,
+      "precio": 57.69,
       "capacidad": null,
       "stock": 3,
       "imgvid": [
@@ -440,7 +440,7 @@
       "codigo": "62587-8",
       "nombre": "Rallador chef",
       "descripcion": "Medida : 30 x 13 x 25 cm\nTiene 3 tipos de conos para 3 tipos de rallado:\n- Hebras gruesas\n- Hebras finas: Para quesos duros y semiduros, frutas, chocolate, zanahorias, papas, zucchinis, batatas y pan tostado. \n- Rallado extra fino: Para quesos duros, frutos secos, galletitas, chocolate, huevo duro y vegetales cocidos como zucchini y zanahorias.",
-      "precio": 20500,
+      "precio": 57.69,
       "capacidad": null,
       "stock": 1,
       "imgvid": [
@@ -497,7 +497,7 @@
       "codigo": "62587-8",
       "nombre": "Bowl creativa 14 Lt",
       "descripcion": "Capacidad : 14 Lt\nMedida : Ø 35 cm - ∆ 22 cm\nColor : verde lima\nPara mezclar, amasar y dejar levar. El sello salta solo avisando que la masa ya levó.",
-      "precio": 11500,
+      "precio": 28.84,
       "capacidad": 14000,
       "stock": 4,
       "imgvid": [
