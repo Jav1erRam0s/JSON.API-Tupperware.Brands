@@ -537,6 +537,72 @@
         "https://i.ibb.co/WFNWK2j/refri-inteligente-1-6-lt-1.png",
         "https://i.ibb.co/vVK97cX/refri-inteligente-2.png"
       ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Organizador de limpieza",
+      "descripcion": "Medida : Ø 14 cm - ∆ 20 cm\nIdeal para organizar elementos de limpieza y tener siempre a mano.",
+      "precio": 8.97,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/8KNLwXP/organizador-de-limpieza-1.webp",
+        "https://i.ibb.co/6wDWMQ6/organizador-de-limpieza-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Eco vaso AFA",
+      "descripcion": "Capacidad : 470 ml\nMedida : Ø 8 cm - ∆ 17 cm\nPara reutilizar con cada café, té o cualquier infusión caliente o fría. No conserva la temperatura.",
+      "precio": 8.01,
+      "capacidad": 470,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/2kN8S9z/eco-vaso-afa.png"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Eco vaso AFA",
+      "descripcion": "Capacidad : 470 ml\nMedida : Ø 8 cm - ∆ 17 cm\nPara reutilizar con cada café, té o cualquier infusión caliente o fría. No conserva la temperatura.",
+      "precio": 8.01,
+      "capacidad": 470,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/2kN8S9z/eco-vaso-afa.png"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Especiero",
+      "descripcion": "Capacidad : 140 ml\nMedida : Ø 5.8 cm - ∆ 8.9 cm\nColores : turquesa, papaya lila y verde lima\nSello 100% hermético que impide el paso de la humedad.",
+      "precio": 2.24,
+      "capacidad": 140,
+      "stock": 6,
+      "imgvid": [
+        "https://i.ibb.co/dQJbMJd/especiero-1.webp",
+        "https://i.ibb.co/ygZZgmB/especiero-2.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Practivaso",
+      "descripcion": "Capacidad : 470 ml\nMedida : Ø 8 cm - ∆ 19.5 cm\nColores : argentina y minions monster\nSello con pico para beber con facilidad y sin derrames.",
+      "precio": 4.8,
+      "capacidad": 470,
+      "stock": 6,
+      "imgvid": [
+        "https://i.ibb.co/0fHC32n/practivaso-argentina.webp",
+        "https://i.ibb.co/RzWVc74/practivaso-monster.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Vaso para infusion",
+      "descripcion": "Capacidad : 470 ml\nMedida : Ø 8 cm - ∆ 20 cm\nColor : morado\nPara transportar bebidas frías o calientes y beber a donde vayas. Fabricado con doble pared de plástico, que permite mantener la temperatura por hasta 40 minutos. Amplia Capacidad. Tapa a rosca 100% hermética.",
+      "precio": 14.42,
+      "capacidad": 470,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/QMPLCZq/vaso-para-infusion-1.webp",
+        "https://i.ibb.co/Km0VTVv/vaso-para-infusion-2.webp"
+      ]
     }
   ]
 }
