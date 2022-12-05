@@ -4,7 +4,7 @@
       "codigo": "62850-8",
       "nombre": "Mini contenedor",
       "descripcion": "Capacidad : 200 ml\nMedida : 7.2 x 7.2 x 6 cm\nColores : coral x 2, papaya x 2 y turquesa x 2.",
-      "precio": 25600,
+      "precio": 1.92,
       "capacidad": 200,
       "stock": 6,
       "imgvid": [
@@ -33,7 +33,7 @@
       "descripcion": "Capacidad : 14 cubos\nMedida : 30 x 11 x 4 cm\nColor : verde agua y amarillo",
       "precio": 7.05,
       "capacidad": null,
-      "stock": 13,
+      "stock": 12,
       "imgvid": [
         "https://i.ibb.co/3Sd2nhz/cubetera-con-tapa-1.png",
         "https://i.ibb.co/bdTKsk9/cubetera-con-tapa-2.jpg"
@@ -43,7 +43,7 @@
       "codigo": "62345-8",
       "nombre": "Jarra aqua",
       "descripcion": "Capacidad : 1.9 Lt\nMedida : 19 x 9.5 x 23.7 cm\nColor : azul petroleo",
-      "precio": 3800,
+      "precio": 12.82,
       "capacidad": 1900,
       "stock": 2,
       "imgvid": [
@@ -65,7 +65,7 @@
       "codigo": "61290-8",
       "nombre": "Dosificador de azucar",
       "descripcion": "Capacidad : 350 ml\nMedida : Ø 7 cm - ∆ 18.5 cm\nPara conservar y servir azucar de manera facil y practica. Su diseño permite dosificar tambien con la medida justa de una cucharadita.\nCapacidad : 350 ml\nMedida : Ø 7 cm - ∆ 18.5 cm",
-      "precio": 2800,
+      "precio": 10.89,
       "capacidad": 350,
       "stock": 2,
       "imgvid": [
@@ -116,7 +116,7 @@
       "codigo": "62206-0",
       "nombre": "Practi delicias",
       "descripcion": "Para preparar pasteles individuales de manera facil y rapida.\nMedida : Ø 10.5 cm\nColores : Papaya y violeta",
-      "precio": 1000,
+      "precio": 3.2,
       "capacidad": null,
       "stock": 2,
       "imgvid": [
@@ -130,7 +130,7 @@
       "codigo": "62587-8",
       "nombre": "Prensa hamburguesa",
       "descripcion": "Medida Prensa : Ø 9 cm - ∆ 8 cm\nMedida Aro : Ø 10.8 cm - ∆ 5 cm\nColor : Verde agua",
-      "precio": 800,
+      "precio": 3.52,
       "capacidad": null,
       "stock": 1,
       "imgvid": [
@@ -142,7 +142,7 @@
       "codigo": "61127-8",
       "nombre": "Sandwichera redonda",
       "descripcion": "Capacidad : 650 ml\nMedidas : Ø 14 cm - Δ 6,5 cm\nColor : Azul petroleo",
-      "precio": 1800,
+      "precio": 5.44,
       "capacidad": 650,
       "stock": 1,
       "imgvid": [
@@ -154,7 +154,7 @@
       "codigo": "62860-0",
       "nombre": "Cuchara para helado",
       "descripcion": "Largo : 19,5 cm\nColor : verde y salmon",
-      "precio": 700,
+      "precio": 2.24,
       "capacidad": null,
       "stock": 5,
       "imgvid": [
@@ -166,7 +166,7 @@
       "codigo": "62206-0",
       "nombre": "Practi empanada",
       "descripcion": "Para preparar empanadas de manera rapida y prolija.\nMedida : Ø 13 cm\nColor : Turquesa",
-      "precio": 1000,
+      "precio": 3.2,
       "capacidad": null,
       "stock": 4,
       "imgvid": [
@@ -179,7 +179,7 @@
       "codigo": "62587-8",
       "nombre": "Prensa y porta hamburguesas",
       "descripcion": "Medida Prensa : Ø 9 cm - ∆ 8 cm\nMedida Aro : Ø 10.8 cm - ∆ 5 cm\nPorta hamburguesa para 4 unidades\nColor : Verde",
-      "precio": 1500,
+      "precio": 10.89,
       "capacidad": null,
       "stock": 1,
       "imgvid": [
@@ -206,7 +206,7 @@
       "codigo": "62587-8",
       "nombre": "Cristalwave 1 Lt",
       "descripcion": "Capacidad : 1 Lt\nMedida : 21 x 15 x 6 cm\nColores : verde lima, coral y rojo",
-      "precio": 1200,
+      "precio": 7.37,
       "capacidad": 1000,
       "stock": 5,
       "imgvid": ["https://i.ibb.co/fFznVDw/cristalwave-1lt.webp"]
@@ -215,7 +215,7 @@
       "codigo": "62587-8",
       "nombre": "Cristalwave 1.7 Lt",
       "descripcion": "Capacidad : 1.7 Lt\nMedida : 21 x 15 x 9 cm\nColor : verde lima",
-      "precio": 1600,
+      "precio": 10.25,
       "capacidad": 1700,
       "stock": 3,
       "imgvid": ["https://i.ibb.co/b3zXVZJ/cristalwave-1-7lt.jpg"]
@@ -242,7 +242,7 @@
       "codigo": "62587-8",
       "nombre": "Modular rectangular 4.3 Lt",
       "descripcion": "Capacidad : 4.3 Lt\nMedida : 28.5 cm x 18.5 cm x 12 cm\nColores : verde lima y morado",
-      "precio": 4200,
+      "precio": 12.82,
       "capacidad": 4300,
       "stock": 7,
       "imgvid": ["https://i.ibb.co/VNY9GQd/modular-rectangular-4-3lt.png"]
@@ -251,7 +251,7 @@
       "codigo": "62587-8",
       "nombre": "Superfreezee rectangular",
       "descripcion": "Capacidad : 3 Lt\nMedida : 29.3 x 15 x 9 cm\nColores : wasabi y verde lima",
-      "precio": 3800,
+      "precio": 11.21,
       "capacidad": 3000,
       "stock": 3,
       "imgvid": [
@@ -263,7 +263,7 @@
       "codigo": "62587-8",
       "nombre": "Sensacion bowl 1.8 Lt",
       "descripcion": "Capacidad : 1.8 Lt\nMedida : Ø 21 cm - ∆ 11.7 cm\nColor : rojo",
-      "precio": 3000,
+      "precio": 6.73,
       "capacidad": 1800,
       "stock": 4,
       "imgvid": ["https://i.ibb.co/zxR7PLj/sensacion-bowl-1-8lt.jpg"]
@@ -272,7 +272,7 @@
       "codigo": "62587-8",
       "nombre": "Sensacion bowl 4 Lt",
       "descripcion": "Capacidad : 4 Lt\nMedida : Ø 26.5 cm - ∆ 15 cm\nColor : rojo",
-      "precio": 3500,
+      "precio": 14.42,
       "capacidad": 4000,
       "stock": 5,
       "imgvid": ["https://i.ibb.co/yPLfPft/sensacion-bowl-4lt.jpg"]
@@ -314,7 +314,7 @@
       "codigo": "62587-8",
       "nombre": "Vaso campana",
       "descripcion": "Capacidad : 525 ml\nMedida : Ø 9.5 cm - ∆ 13.5 cm\nColores : turquesa, naranja, verde, rojo y fucsia",
-      "precio": 600,
+      "precio": 2.88,
       "capacidad": 525,
       "stock": 35,
       "imgvid": [
@@ -338,7 +338,7 @@
       "codigo": "62587-8",
       "nombre": "Sensacion bowl 600 ml",
       "descripcion": "Capacidad : 600 ml\nMedida : Ø 9.5 cm - ∆ 11.7 cm\nColores : verde lima, tuquesa, papaya y sandia",
-      "precio": 550,
+      "precio": 3.84,
       "capacidad": 600,
       "stock": 15,
       "imgvid": [
@@ -350,7 +350,7 @@
       "codigo": "62587-8",
       "nombre": "Jarra luxury",
       "descripcion": "Capacidad : 2 Lt\nMedida : Ø 12 cm - ∆ 29.5 cm\nColor : violeta",
-      "precio": 2500,
+      "precio": 12.82,
       "capacidad": 2000,
       "stock": 2,
       "imgvid": [
@@ -404,7 +404,7 @@
       "codigo": "62587-8",
       "nombre": "Jarra con manija",
       "descripcion": "Capacidad : 2 Lt\nMedida : 17 x 9.5 x 20.5 cm\nColores : aruba y coral",
-      "precio": 4000,
+      "precio": 9.29,
       "capacidad": 2000,
       "stock": 3,
       "imgvid": [
@@ -455,7 +455,7 @@
       "codigo": "62587-8",
       "nombre": "Exprimidor chef",
       "descripcion": "Capacidad : 500 ml\nMedida : Ø 11.5 cm - ∆ 19.5 cm\nExprime y tritura creando jugos y batidos con sus frutas favoritas. Su accesorio compresor permite triturar frutos blandos como frutillas, duraznos, uvas, tomates, etc.",
-      "precio": 18700,
+      "precio": 19.87,
       "capacidad": 500,
       "stock": 3,
       "imgvid": [
@@ -470,7 +470,7 @@
       "codigo": "62587-8",
       "nombre": "Mini chef",
       "descripcion": "Capacidad : 300 ml\nMedida : Ø 11 cm - ∆ 9.5 cm\nColor : verde\nCorta, pica y tritura alimentos de manera fácil, práctica y rápida.\nCon Sello 100% hermético. Permite guardar las preparaciones en el mismo recipiente sin necesidad de cambiarlo a otro.",
-      "precio": 8500,
+      "precio": 28.84,
       "capacidad": 300,
       "stock": 1,
       "imgvid": [
@@ -484,7 +484,7 @@
       "codigo": "62587-8",
       "nombre": "Extra chef",
       "descripcion": "Capacidad : 1.35 Lt\nMedida : Ø 15.5 cm - ∆ 20 cm\nColor : rojo\nIncluye 3 accesorios:\n- Cuchillas Curvadas: permiten una mejor circulación de los ingredientes, mayor velocidad y precisión en los cortes. Y no te preocupes por su filo, porque incluyen un protector plástico que las mantiene a salvo y seguras.\n- Batidor: sirve para integrar, mezclar y batir alimentos.\n- Embudo dosificador: viene con escalas de medidas grabas para agregar líquidos a la prepación sin necesidad de abrir la tapa. Se puede usar en dos posiciones: cerrado para medir y abierto para verter mientras se mezcla.",
-      "precio": 15500,
+      "precio": 47.75,
       "capacidad": 1350,
       "stock": 2,
       "imgvid": [
@@ -509,7 +509,7 @@
       "codigo": "62587-8",
       "nombre": "Bowl creativa 10 Lt",
       "descripcion": "Capacidad : 10 Lt\nMedida : Ø 30.5 cm - ∆ 18 cm\nColor : lila\nPara mezclar, amasar y dejar levar. El sello salta solo avisando que la masa ya levó.",
-      "precio": 8500,
+      "precio": 19.23,
       "capacidad": 10000,
       "stock": 2,
       "imgvid": ["https://i.ibb.co/THLtKJX/bowl-creativa-10-lt.png"]
@@ -518,7 +518,7 @@
       "codigo": "62587-8",
       "nombre": "Refri inteligente 8 Lt",
       "descripcion": "Capacidad : 8 Lt\nMedida : 30 x 30 x 12.5 cm\nColor : lila\nCuenta con dos válvulas para regular la circulación del aire segun la fruta o verdura.",
-      "precio": 8500,
+      "precio": 27.24,
       "capacidad": 8000,
       "stock": 1,
       "imgvid": [
@@ -530,7 +530,7 @@
       "codigo": "62587-8",
       "nombre": "Refri inteligente 1.6 Lt",
       "descripcion": "Capacidad : 1.6 Lt\nMedida : 22.5 x 15 x 8.5 cm\nColor : amarillo\nCuenta con dos válvulas para regular la circulación del aire segun la fruta o verdura.",
-      "precio": 2500,
+      "precio": 9.93,
       "capacidad": 1600,
       "stock": 1,
       "imgvid": [

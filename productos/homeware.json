@@ -4,7 +4,7 @@
       "codigo": "62850-8",
       "nombre": "Churrera hojalata",
       "descripcion": "Medidas : Ø 5.5 cm - ∆ 23 cm",
-      "precio": 800,
+      "precio": 2.56,
       "capacidad": null,
       "stock": 1,
       "imgvid": ["https://i.ibb.co/9yGF0xd/churrera-hojalata.jpg"]
@@ -13,7 +13,7 @@
       "codigo": "62850-8",
       "nombre": "Cepillo largo flexible",
       "descripcion": "Para limpiar botellas.\nMedidas : Ø 2 cm - ∆ 31 cm\nColor : rojo",
-      "precio": 400,
+      "precio": 3.2,
       "capacidad": null,
       "stock": 1,
       "imgvid": [
@@ -25,7 +25,7 @@
       "codigo": "62850-8",
       "nombre": "Juego de cubiertos",
       "descripcion": "Contiene : cucharita x 4, cuchara x 4, cuchillo x 4  y tenedor x 4\nColor : verde agua",
-      "precio": 1500,
+      "precio": 6.08,
       "capacidad": null,
       "stock": 1,
       "imgvid": ["https://i.ibb.co/wd8RkDv/juego-de-cubiertos-carol.webp"]
