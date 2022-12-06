@@ -120,6 +120,7 @@
       "capacidad": null,
       "stock": 2,
       "imgvid": [
+        "https://i.ibb.co/zP228Z5/practi-delicias-0.png",
         "https://i.ibb.co/zGHnFvj/practi-delicia-1.jpg",
         "https://i.ibb.co/pWcQDG4/practi-delicia-2.jpg",
         "https://i.ibb.co/YT76XVt/practi-delicia-3.jpg",
@@ -561,15 +562,6 @@
     },
     {
       "codigo": "62587-8",
-      "nombre": "Eco vaso AFA",
-      "descripcion": "Capacidad : 470 ml\nMedida : Ø 8 cm - ∆ 17 cm\nPara reutilizar con cada café, té o cualquier infusión caliente o fría. No conserva la temperatura.",
-      "precio": 8.01,
-      "capacidad": 470,
-      "stock": 1,
-      "imgvid": ["https://i.ibb.co/2kN8S9z/eco-vaso-afa.png"]
-    },
-    {
-      "codigo": "62587-8",
       "nombre": "Especiero",
       "descripcion": "Capacidad : 140 ml\nMedida : Ø 5.8 cm - ∆ 8.9 cm\nColores : turquesa, papaya lila y verde lima\nSello 100% hermético que impide el paso de la humedad.",
       "precio": 2.24,
@@ -588,7 +580,7 @@
       "capacidad": 470,
       "stock": 6,
       "imgvid": [
-        "https://i.ibb.co/0fHC32n/practivaso-argentina.webp",
+        "https://i.ibb.co/5sbJxT3/practivaso-argentina.png",
         "https://i.ibb.co/RzWVc74/practivaso-monster.webp"
       ]
     },
