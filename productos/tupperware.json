@@ -553,7 +553,7 @@
     },
     {
       "codigo": "62587-8",
-      "nombre": "Eco vaso AFA",
+      "nombre": "Eco vaso 470 ml",
       "descripcion": "Capacidad : 470 ml\nMedida : Ø 8 cm - ∆ 17 cm\nPara reutilizar con cada café, té o cualquier infusión caliente o fría. No conserva la temperatura.",
       "precio": 8.01,
       "capacidad": 470,
@@ -594,6 +594,55 @@
       "imgvid": [
         "https://i.ibb.co/QMPLCZq/vaso-para-infusion-1.webp",
         "https://i.ibb.co/Km0VTVv/vaso-para-infusion-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Eco vaso 350 ml",
+      "descripcion": "Capacidad : 350 ml\nMedida : Ø 8 cm - ∆ 12.5 cm\nColor : morado\nPara reutilizar con cada café, té o cualquier infusión caliente o fría. Con collar removible para sostener el vaso con seguridad y mantener la mano aislada del calor.",
+      "precio": 5.77,
+      "capacidad": 350,
+      "stock": 2,
+      "imgvid": ["https://i.ibb.co/K7ctzHB/eco-vaso-350ml.webp"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Compactware copetinero",
+      "descripcion": "Capacidad : 5.6 Lt\nMedida : Ø 36 cm - ∆ 15 cm\nColor : bordo\nEste producto es vesartil ya que la tapa se convierte en un copetinero mas. Contiene dos contenedores mas pequeños con sello de 470 ml cada uno que pueden engancharse por dentro o por fuera del bowl mas grande. Ideal para llevar las salsas o aderezos para las picadas.",
+      "precio": 28.84,
+      "capacidad": 5600,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/qMd5LBS/compactware-copetinero.webp"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Eco twist con pico 310 ml",
+      "descripcion": "Capacidad : 310 ml\nMedida : Ø 36 cm - ∆ 15 cm\nColor : verde",
+      "precio": 2.88,
+      "capacidad": 310,
+      "stock": 2,
+      "imgvid": ["https://i.ibb.co/QMkg9Bd/eco-twist-con-pico-310ml.webp"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Eco twist sin pico 310 ml",
+      "descripcion": "Capacidad : 310 ml\nMedida : Ø 36 cm - ∆ 15 cm\nColor : rosa",
+      "precio": 2.88,
+      "capacidad": 310,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/WFSg7Qv/eco-twist-sin-pico-310ml.jpg"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Eco twist cuadrado",
+      "descripcion": "Capacidad : 1 Lt\nMedida : Ø 8.5 cm - ∆ 24.5 cm\nColor : verde",
+      "precio": 2.88,
+      "capacidad": 1000,
+      "stock": 2,
+      "imgvid": [
+        "https://i.ibb.co/0KvX6jw/eco-twist-cuadrado-1.png",
+        "https://i.ibb.co/5vjrV97/eco-twist-cuadrado-2.png",
+        "https://i.ibb.co/Z2dcznc/eco-twist-cuadrado-3.png"
       ]
     }
   ]
