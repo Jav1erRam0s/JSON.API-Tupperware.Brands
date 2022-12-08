@@ -209,7 +209,7 @@
       "descripcion": "Capacidad : 1 Lt\nMedida : 21 x 15 x 6 cm\nColores : verde lima, coral y rojo",
       "precio": 7.37,
       "capacidad": 1000,
-      "stock": 5,
+      "stock": 4,
       "imgvid": ["https://i.ibb.co/fFznVDw/cristalwave-1lt.webp"]
     },
     {
@@ -648,10 +648,10 @@
     {
       "codigo": "62587-8",
       "nombre": "Eco twist con pico 500 ml",
-      "descripcion": "Capacidad : 500 ml\nMedida : Ø 6 cm - ∆ 21 cm\nColores : tuquesa, rojo",
+      "descripcion": "Capacidad : 500 ml\nMedida : Ø 6 cm - ∆ 21 cm\nColor : rojo",
       "precio": 4.49,
       "capacidad": 500,
-      "stock": 2,
+      "stock": 1,
       "imgvid": [
         "https://i.ibb.co/x56pyj2/eco-twist-con-pico-500ml-1.webp",
         "https://i.ibb.co/fMb15Yz/eco-twist-con-pico-500ml-2.webp"
@@ -678,6 +678,42 @@
       "capacidad": 2000,
       "stock": 1,
       "imgvid": ["https://i.ibb.co/vh6S0bP/eco-twist-con-pico-2lt.png"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Eco kids",
+      "descripcion": "Capacidad : 350 ml\nMedida : Ø 6.5 cm - ∆ 15 cm\nColor : rojo y blanco",
+      "precio": 3.53,
+      "capacidad": 350,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/Cst2TG4/eco-kids.png"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Eco twist (flower) 750 ml",
+      "descripcion": "Capacidad : 750 ml\nMedida : Ø 7 cm - ∆ 25.5 cm\nNo apta para freezer.",
+      "precio": 8.65,
+      "capacidad": 750,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/txxDMCJ/eco-twist-flower-750ml.webp"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Eco twist (glam) 750 ml",
+      "descripcion": "Capacidad : 750 ml\nMedida : Ø 7 cm - ∆ 25.5 cm\nNo apta para freezer.",
+      "precio": 8.65,
+      "capacidad": 750,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/jGgDW6M/eco-twist-glam-750ml.webp"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Timer mini chef",
+      "descripcion": "Medida : Ø 6.5 cm - ∆ 5.5 cm\nColor : rojo\nDe 1 a 59 minutos.",
+      "precio": 14.42,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/JrDP8Wc/timer-mini-chef.png"]
     }
   ]
 }
