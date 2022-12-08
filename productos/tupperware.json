@@ -626,7 +626,7 @@
     {
       "codigo": "62587-8",
       "nombre": "Eco twist sin pico 310 ml",
-      "descripcion": "Capacidad : 310 ml\nMedida : Ø 36 cm - ∆ 15 cm\nColor : rosa",
+      "descripcion": "Capacidad : 310 ml\nMedida : Ø 5 cm - ∆ 18 cm\nColor : rosa",
       "precio": 2.88,
       "capacidad": 310,
       "stock": 1,
@@ -644,6 +644,40 @@
         "https://i.ibb.co/5vjrV97/eco-twist-cuadrado-2.png",
         "https://i.ibb.co/Z2dcznc/eco-twist-cuadrado-3.png"
       ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Eco twist con pico 500 ml",
+      "descripcion": "Capacidad : 500 ml\nMedida : Ø 6 cm - ∆ 21 cm\nColores : tuquesa, rojo",
+      "precio": 4.49,
+      "capacidad": 500,
+      "stock": 2,
+      "imgvid": [
+        "https://i.ibb.co/x56pyj2/eco-twist-con-pico-500ml-1.webp",
+        "https://i.ibb.co/fMb15Yz/eco-twist-con-pico-500ml-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Cepillo eco twist",
+      "descripcion": "Medida : ∆ 24.5 cm\nColores : tuquesa, rojo\nCepillo limpiador apto para Eco Twist 500 ml, Eco Twist 310 ml y Eco Kids 350 ml. Punta curvada que facilita la llegada a todos los ángulos de la botella.",
+      "precio": 3.2,
+      "capacidad": null,
+      "stock": 2,
+      "imgvid": [
+        "https://i.ibb.co/Gk3zqSS/cepillo-eco-twist-1.webp",
+        "https://i.ibb.co/sHMS2Df/cepillo-eco-twist-2.webp",
+        "https://i.ibb.co/Zd4c4s1/cepillo-eco-twist-3.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Eco twist con pico 2 Lt",
+      "descripcion": "Capacidad : 2 Lt\nMedida : Ø 10 cm - ∆ 31 cm\nColor : verde",
+      "precio": 11.22,
+      "capacidad": 2000,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/vh6S0bP/eco-twist-con-pico-2lt.png"]
     }
   ]
 }
