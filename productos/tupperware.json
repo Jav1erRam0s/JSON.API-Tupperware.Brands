@@ -586,14 +586,14 @@
     },
     {
       "codigo": "62587-8",
-      "nombre": "Vaso para infusion",
+      "nombre": "Vaso para infusion II",
       "descripcion": "Capacidad : 470 ml\nMedida : Ø 8 cm - ∆ 20 cm\nColor : morado\nPara transportar bebidas frías o calientes y beber a donde vayas. Fabricado con doble pared de plástico, que permite mantener la temperatura por hasta 40 minutos. Amplia Capacidad. Tapa a rosca 100% hermética.",
       "precio": 14.42,
       "capacidad": 470,
       "stock": 1,
       "imgvid": [
-        "https://i.ibb.co/QMPLCZq/vaso-para-infusion-1.webp",
-        "https://i.ibb.co/Km0VTVv/vaso-para-infusion-2.webp"
+        "https://i.ibb.co/M87Vnps/vaso-para-infusion-ii-1.webp",
+        "https://i.ibb.co/p4D932y/vaso-para-infusion-ii-2.webp"
       ]
     },
     {
@@ -714,6 +714,52 @@
       "capacidad": null,
       "stock": 1,
       "imgvid": ["https://i.ibb.co/JrDP8Wc/timer-mini-chef.png"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Practivaso deco (SET)",
+      "descripcion": "SET de 4 unidades\nCon tapa sello 100% hermético.\nCapacidad : 470 ml\nMedida : Ø 8 cm - ∆ 17 cm\nColor : lila",
+      "precio": 11.22,
+      "capacidad": 470,
+      "stock": 2,
+      "imgvid": ["https://i.ibb.co/NK8YLG3/practivaso-deco.png"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Practivaso dosificador (SET)",
+      "descripcion": "SET de 2 unidades\nCon tapa sello 100% hermético.\nCapacidad : [ 470 ml (yerba y verde) ] - [ 310 ml (azucar y aruba) ]\nMedida : [ Ø 8 cm - ∆ 19.5 cm (470 ml) ] - [ Ø 8 cm - ∆ 15.5 cm (310 ml) ]\nColores : yerba, azucar, verde y aruba",
+      "precio": 14.42,
+      "capacidad": 470,
+      "stock": 3,
+      "imgvid": [
+        "https://i.ibb.co/Vgw5V6z/practivaso-dosificador-1.webp",
+        "https://i.ibb.co/9T7QQV7/practivaso-dosificador-2.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Hermetico dosificador",
+      "descripcion": "Capacidad : 850 ml\nMedida : 12.9 x 5.7 x 15.9 cm\nColores : verde y celeste",
+      "precio": 7.05,
+      "capacidad": 850,
+      "stock": 6,
+      "imgvid": [
+        "https://i.ibb.co/KsCqdsq/hermetico-dosificador-1.jpg",
+        "https://i.ibb.co/p0pDV5m/hermetico-dosificador-2.jpg"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Vaso para infusion I",
+      "descripcion": "Capacidad : 360 ml\nMedida : Ø 7.5 cm - ∆ 19 cm\nColores : azul y coral\nCon doble pared de plastico, ideal para llevar bebidas calientes o frías a todos lados y mantener su temperatura.\nIncluye rejilla que impide el paso de hierbas, hojas o cascaras de citricos. Ideal para saborizar las bebidas.\nMaterial resistente.",
+      "precio": 28.84,
+      "capacidad": 360,
+      "stock": 3,
+      "imgvid": [
+        "https://i.ibb.co/K2tLCrr/vaso-para-infusion-i-1.png",
+        "https://i.ibb.co/yVS7Vx0/vaso-para-infusion-i-2.webp",
+        "https://i.ibb.co/8BPV6FP/vaso-para-infusion-i-3.jpg"
+      ]
     }
   ]
 }
