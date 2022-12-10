@@ -760,6 +760,78 @@
         "https://i.ibb.co/yVS7Vx0/vaso-para-infusion-i-2.webp",
         "https://i.ibb.co/8BPV6FP/vaso-para-infusion-i-3.jpg"
       ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Platos basic (SET)",
+      "descripcion": "SET de 4 unidades\nMedida : 24 x 24 cm\nColores : turquesa y verde lima\nMaterial resistente.\nNo apto para microondas.",
+      "precio": 12.5,
+      "capacidad": null,
+      "stock": 5,
+      "imgvid": [
+        "https://i.ibb.co/TLgqycm/platos-basic-1.png",
+        "https://i.ibb.co/VBK6xSp/platos-basic-2.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Vaso con tapa",
+      "descripcion": "Capacidad : 470 ml\nMedida : Ø 8 cm - ∆ 17 cm\nColores : rojo y blanco a rayas y lunares\nCon tapa sello 100% hermético.",
+      "precio": 2.88,
+      "capacidad": 470,
+      "stock": 7,
+      "imgvid": [
+        "https://i.ibb.co/NNyJD3K/vaso-con-tapa-1.webp",
+        "https://i.ibb.co/Mk5rWpd/vaso-con-tapa-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Practivaso con pico",
+      "descripcion": "Capacidad : 310 ml\nMedida : Ø 8 cm - ∆ 15.5 cm\nColores : coral y turquesa con negro",
+      "precio": 4.17,
+      "capacidad": 310,
+      "stock": 3,
+      "imgvid": [
+        "https://i.ibb.co/X7qC0yg/practivaso-con-pico-1.png",
+        "https://i.ibb.co/q5mzLrL/practivaso-con-pico-2.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Vaso murano",
+      "descripcion": "Capacidad : 300 ml\nMedida : Ø 8.5 cm - ∆ 11 cm\nColores : amarillo y verde\nSello con espacio siliconado para colocar un sorbete.\nNo incluye sorbete.",
+      "precio": 2.24,
+      "capacidad": 300,
+      "stock": 2,
+      "imgvid": [
+        "https://i.ibb.co/hMHY9Fd/vaso-murano-1.webp",
+        "https://i.ibb.co/zJyz3Zk/vaso-murano-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Vaso",
+      "descripcion": "Capacidad : 350 ml\nMedida : Ø 7.5 cm - ∆ 13.5 cm\nColores : violeta y agua marina",
+      "precio": 2.88,
+      "capacidad": 350,
+      "stock": 4,
+      "imgvid": [
+        "https://i.ibb.co/ftr2jWs/vaso-1.webp",
+        "https://i.ibb.co/vks6Brm/vaso-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Mamadera",
+      "descripcion": "Capacidad : 240 ml\nMedida : Ø 6 cm - ∆ 19 cm\nLa tetina se adapta a todas las etapas del bebé desde los tres meses. Solo basta con girar la mamadera hasta que el número deseado quede hacia arriba, alineado a la nariz del bebé:\nFlujo 1: lento o para líquidos ligeros.\nFlujo 2: medio.\nFlujo 3: rápido o para líquidos espesos.\nApta para microondas.",
+      "precio": 11.22,
+      "capacidad": 240,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/TgkPnRn/mamadera-1.webp",
+        "https://i.ibb.co/pXSqvCC/mamadera-2.webp"
+      ]
     }
   ]
 }
