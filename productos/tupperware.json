@@ -553,12 +553,16 @@
     },
     {
       "codigo": "62587-8",
-      "nombre": "Eco vaso 470 ml",
-      "descripcion": "Capacidad : 470 ml\nMedida : Ø 8 cm - ∆ 17 cm\nPara reutilizar con cada café, té o cualquier infusión caliente o fría. No conserva la temperatura.",
+      "nombre": "Eco vaso 490 ml",
+      "descripcion": "Capacidad : 490 ml\nMedida : Ø 8 cm - ∆ 17 cm\nColores : azul y afa\nPara reutilizar con cada café, té o cualquier infusión caliente o fría. No conserva la temperatura.",
       "precio": 8.01,
-      "capacidad": 470,
-      "stock": 1,
-      "imgvid": ["https://i.ibb.co/2kN8S9z/eco-vaso-afa.png"]
+      "capacidad": 490,
+      "stock": 5,
+      "imgvid": [
+        "https://i.ibb.co/0QS3KQS/eco-vaso-azul.jpg",
+        "https://i.ibb.co/2kN8S9z/eco-vaso-afa.png",
+        "https://www.youtube.com/embed/awR8DC2wR2s"
+      ]
     },
     {
       "codigo": "62587-8",
@@ -566,7 +570,7 @@
       "descripcion": "Capacidad : 140 ml\nMedida : Ø 5.8 cm - ∆ 8.9 cm\nColores : turquesa, papaya lila y verde lima\nSello 100% hermético que impide el paso de la humedad.",
       "precio": 2.24,
       "capacidad": 140,
-      "stock": 6,
+      "stock": 12,
       "imgvid": [
         "https://i.ibb.co/dQJbMJd/especiero-1.webp",
         "https://i.ibb.co/ygZZgmB/especiero-2.png"
