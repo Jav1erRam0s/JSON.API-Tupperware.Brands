@@ -681,7 +681,10 @@
       "precio": 11.22,
       "capacidad": 2000,
       "stock": 1,
-      "imgvid": ["https://i.ibb.co/vh6S0bP/eco-twist-con-pico-2lt.png"]
+      "imgvid": [
+        "https://i.ibb.co/4MJKWyk/eco-twist-con-pico-2lt-1.png",
+        "https://i.ibb.co/nkt9nbj/eco-twist-con-pico-2lt-2.png"
+      ]
     },
     {
       "codigo": "62587-8",
@@ -835,6 +838,65 @@
       "imgvid": [
         "https://i.ibb.co/TgkPnRn/mamadera-1.webp",
         "https://i.ibb.co/pXSqvCC/mamadera-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Practivaso flamenco (SET)",
+      "descripcion": "Capacidad : 470 ml\nMedida : Ø 8 cm - ∆ 17 cm\nCon tapa sello 100% hermético.",
+      "precio": 11.22,
+      "capacidad": 470,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/FDYsx83/practivaso-flamenco.webp"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Hermetico basic line 5 Lt",
+      "descripcion": "Capacidad : 5 Lt\nMedida : 24 x 24 x 11 cm\nColor : turquesa\nCon tapa sello 100% hermético.",
+      "precio": 24.04,
+      "capacidad": 5000,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/4PstXMv/hermetico-basic-line-5lt-1.png",
+        "https://i.ibb.co/pQYMKn4/hermetico-basic-line-5lt-2.jpg",
+        "https://i.ibb.co/MkFbL4L/hermetico-basic-line-5lt-3.jpg"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Hermetico basic line 2.5 Lt",
+      "descripcion": "Capacidad : 2.5 Lt\nMedida : 19 x 19 x 9.5 cm\nColor : azul\nCon tapa sello 100% hermético.",
+      "precio": 12.5,
+      "capacidad": 2500,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/2Ysdc66/hermetico-basic-line-2-5lt-1.png",
+        "https://i.ibb.co/6nJkfF7/hermetico-basic-line-2-5lt-2.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Caja organizadora 4.3 Lt",
+      "descripcion": "Capacidad : 4.3 Lt\nMedida : 14 x 27.5 x 20.2 cm\nColor : verde",
+      "precio": 26.92,
+      "capacidad": 4300,
+      "stock": 4,
+      "imgvid": [
+        "https://i.ibb.co/DMJyWz4/caja-organizadora-4-3lt.png",
+        "https://www.youtube.com/embed/XjLVto4TXTw"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Caja organizadora 2 Lt",
+      "descripcion": "Capacidad : 2 Lt\nMedida : 8.3 x 27.5 x 20.2 cm\nColor : verde",
+      "precio": 17.63,
+      "capacidad": 2000,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/Mf5LdQG/caja-organizadora-2lt-1.png",
+        "https://i.ibb.co/V2cTFsf/caja-organizadora-2lt-2.webp",
+        "https://www.youtube.com/embed/XjLVto4TXTw"
       ]
     }
   ]
