@@ -898,6 +898,45 @@
         "https://i.ibb.co/V2cTFsf/caja-organizadora-2lt-2.webp",
         "https://www.youtube.com/embed/XjLVto4TXTw"
       ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Arrocera para microonda",
+      "descripcion": "Capacidad : 2.2 Lt\nMedida : Ø 18.8 cm - ∆ 15 cm\nColor : morado",
+      "precio": 12.82,
+      "capacidad": 2200,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/DwHnhFr/arrocera-para-microonda-1.jpg",
+        "https://i.ibb.co/bg7N4fy/arrocera-para-microonda-2.jpg",
+        "https://i.ibb.co/w4hPyX8/arrocera-para-microonda-3.jpg",
+        "https://www.youtube.com/embed/mPmCaoPeV8M"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Embudo",
+      "descripcion": "Medida : Ø 9.5 cm\nColor : verde lima",
+      "precio": 1.92,
+      "capacidad": null,
+      "stock": 4,
+      "imgvid": [
+        "https://i.ibb.co/2FP8gHd/embudo-1.webp",
+        "https://i.ibb.co/jbwsrXB/embudo-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Bandeja con divisiones",
+      "descripcion": "Medida : 38 x 22.5 x 2 cm\nColor : verde, azul oscuro\nMaterial resistente y duradero.",
+      "precio": 13.46,
+      "capacidad": null,
+      "stock": 3,
+      "imgvid": [
+        "https://i.ibb.co/K0r5Qhz/bandeja-con-divisiones-1.jpg",
+        "https://i.ibb.co/7yBwt1w/bandeja-con-divisiones-2.webp",
+        "https://i.ibb.co/LkXRff3/bandeja-con-divisiones-3.webp"
+      ]
     }
   ]
 }
