@@ -2,9 +2,15 @@
   "promociones": [
     {
       "nombre": "Vaso AFA",
-      "descripcion": "Eco vaso\ncapacidad : 490 ml\nMedida : Ø 8 cm - ∆ 17 cm",
+      "descripcion": "Eco vaso - Capacidad : 490 ml - Medida : Ø 8 cm ∆ 17 cm",
       "precio": 6.41,
       "imagen": "https://i.ibb.co/2kN8S9z/eco-vaso-afa.png"
+    },
+    {
+      "nombre": "Practivaso Argentina",
+      "descripcion": "Capacidad : 470 ml - Medida : Ø 8 cm ∆ 19.5 cm",
+      "precio": 5.77,
+      "imagen": "https://i.ibb.co/5sbJxT3/practivaso-argentina.png"
     },
     {
       "nombre": "Promo Set x 4",
