@@ -1,7 +1,13 @@
 {
   "promociones": [
     {
-      "nombre": "Promo Set x 4 ",
+      "nombre": "Vaso AFA",
+      "descripcion": "Eco vaso\ncapacidad : 490 ml\nMedida : Ø 8 cm - ∆ 17 cm",
+      "precio": 6.41,
+      "imagen": "https://i.ibb.co/2kN8S9z/eco-vaso-afa.png"
+    },
+    {
+      "nombre": "Promo Set x 4",
       "descripcion": "Vaso infantil. Material resistente. Colores distintos.",
       "precio": 6.41,
       "imagen": "https://i.ibb.co/4twqVgc/promo-1.jpg"
@@ -19,5 +25,5 @@
       "imagen": "https://i.ibb.co/tBnZ5GT/promo-3.jpg"
     }
   ],
-  "enable": false
+  "enable": true
 }
