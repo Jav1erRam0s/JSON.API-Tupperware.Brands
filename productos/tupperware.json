@@ -80,7 +80,7 @@
       "descripcion": "Capacidad : 280 ml\nMedida : Ø 8.4 cm - ∆ 9 cm\nColores : turquesa, fucsia, verde lima, celeste y azul petroleo",
       "precio": 3.2,
       "capacidad": 280,
-      "stock": 22,
+      "stock": 21,
       "imgvid": [
         "https://i.ibb.co/2SkDLDb/taza-milano.jpg",
         "https://i.ibb.co/3k10yyr/taza-milano-2.jpg"
@@ -102,10 +102,10 @@
     {
       "codigo": "62879-4",
       "nombre": "Actualite bowl",
-      "descripcion": "Capacidad : 330 ml\nMedida : Ø 12 cm - ∆ 8 cm\nColores : Turquesa, papaya, rojo, verde lima, morado, agua marina y petroleo",
+      "descripcion": "Capacidad : 330 ml\nMedida : Ø 12 cm - ∆ 8 cm\nColores : Turquesa, papaya, rojo, verde lima, morado, malva, agua marina y petroleo",
       "precio": 3.84,
       "capacidad": 330,
-      "stock": 19,
+      "stock": 20,
       "imgvid": [
         "https://i.ibb.co/qj86Br2/actualite-bowl-1.png",
         "https://i.ibb.co/XZSg91P/actualite-bowl-2.png",
@@ -880,7 +880,7 @@
       "descripcion": "Capacidad : 4.3 Lt\nMedida : 14 x 27.5 x 20.2 cm\nColor : verde",
       "precio": 26.92,
       "capacidad": 4300,
-      "stock": 4,
+      "stock": 6,
       "imgvid": [
         "https://i.ibb.co/DMJyWz4/caja-organizadora-4-3lt.png",
         "https://www.youtube.com/embed/XjLVto4TXTw"
