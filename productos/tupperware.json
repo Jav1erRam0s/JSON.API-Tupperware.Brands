@@ -418,7 +418,7 @@
       "codigo": "62587-8",
       "nombre": "Superfreezee 10 Lt",
       "descripcion": "Capacidad : 10 Lt\nMedida : Ø 30.5 cm - ∆ 15.5 cm\nColor : verde menta",
-      "precio": 22.43,
+      "precio": 28.84,
       "capacidad": 10000,
       "stock": 6,
       "imgvid": ["https://i.ibb.co/LN3G83K/superfreezee-10lt.jpg"]
@@ -498,7 +498,7 @@
       "codigo": "62587-8",
       "nombre": "Bowl creativa 14 Lt",
       "descripcion": "Capacidad : 14 Lt\nMedida : Ø 35 cm - ∆ 22 cm\nColor : verde lima\nPara mezclar, amasar y dejar levar. El sello salta solo avisando que la masa ya levó.",
-      "precio": 28.84,
+      "precio": 38.46,
       "capacidad": 14000,
       "stock": 4,
       "imgvid": [
@@ -510,7 +510,7 @@
       "codigo": "62587-8",
       "nombre": "Bowl creativa 10 Lt",
       "descripcion": "Capacidad : 10 Lt\nMedida : Ø 30.5 cm - ∆ 18 cm\nColor : lila\nPara mezclar, amasar y dejar levar. El sello salta solo avisando que la masa ya levó.",
-      "precio": 19.23,
+      "precio": 28.85,
       "capacidad": 10000,
       "stock": 2,
       "imgvid": ["https://i.ibb.co/THLtKJX/bowl-creativa-10-lt.png"]
@@ -554,10 +554,10 @@
     {
       "codigo": "62587-8",
       "nombre": "Eco vaso 490 ml",
-      "descripcion": "Capacidad : 490 ml\nMedida : Ø 8 cm - ∆ 17 cm\nColores : azul y afa\nPara reutilizar con cada café, té o cualquier infusión caliente o fría. No conserva la temperatura.",
+      "descripcion": "Capacidad : 490 ml\nMedida : Ø 8 cm - ∆ 17 cm\nColores : afa\nPara reutilizar con cada café, té o cualquier infusión caliente o fría. No conserva la temperatura.",
       "precio": 8.01,
       "capacidad": 490,
-      "stock": 5,
+      "stock": 1,
       "imgvid": [
         "https://i.ibb.co/0QS3KQS/eco-vaso-azul.jpg",
         "https://i.ibb.co/2kN8S9z/eco-vaso-afa.png",
@@ -761,7 +761,7 @@
       "descripcion": "Capacidad : 360 ml\nMedida : Ø 7.5 cm - ∆ 19 cm\nColores : azul y coral\nCon doble pared de plastico, ideal para llevar bebidas calientes o frías a todos lados y mantener su temperatura.\nIncluye rejilla que impide el paso de hierbas, hojas o cascaras de citricos. Ideal para saborizar las bebidas.\nMaterial resistente.",
       "precio": 28.84,
       "capacidad": 360,
-      "stock": 3,
+      "stock": 2,
       "imgvid": [
         "https://i.ibb.co/K2tLCrr/vaso-para-infusion-i-1.png",
         "https://i.ibb.co/yVS7Vx0/vaso-para-infusion-i-2.webp",
