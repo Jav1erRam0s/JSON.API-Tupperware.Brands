@@ -937,6 +937,33 @@
         "https://i.ibb.co/7yBwt1w/bandeja-con-divisiones-2.webp",
         "https://i.ibb.co/LkXRff3/bandeja-con-divisiones-3.webp"
       ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Actualite fuente honda",
+      "descripcion": "Capacidad : 1.8 Lt\nMedida : 22.3 x 25 x 9 cm\nColores : turquesa y rojo\nPara servir alimentos que contengan salsa o liquidos.",
+      "precio": 20,
+      "capacidad": 1800,
+      "stock": 4,
+      "imgvid": [
+        "https://i.ibb.co/64gpNV8/actualite-fuente-honda-1-8lt-1.jpg",
+        "https://i.ibb.co/ry0Wc16/actualite-fuente-honda-1-8lt-2.png",
+        "https://www.youtube.com/embed/qgeEITQNBhE"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Pasta tutto",
+      "descripcion": "Capacidad : 3 Lt\nMedida : Ø 22 cm - ∆ 16 cm\nColores : morado y bordo\nIdeal para cocinar pastas secas en el microondas. Su diseño redondo se adapta a los tamaños standard de microondas. Tiene medidas grabadas que indican el agua necesaria según la cantidad de pasta a cocinar. Además, su base con ranuras permite colar fácilmente la pasta.",
+      "precio": 29.41,
+      "capacidad": 3000,
+      "stock": 3,
+      "imgvid": [
+        "https://i.ibb.co/MZXy3K4/pasta-tutto-1.png",
+        "https://i.ibb.co/qCgkDSD/pasta-tutto-2.png",
+        "https://i.ibb.co/jk0Htvr/pasta-tutto-3.png",
+        "https://www.youtube.com/embed/4lCq98RI1kc"
+      ]
     }
   ]
 }
