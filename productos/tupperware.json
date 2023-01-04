@@ -964,6 +964,85 @@
         "https://i.ibb.co/jk0Htvr/pasta-tutto-3.png",
         "https://www.youtube.com/embed/4lCq98RI1kc"
       ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Vision bowl 4.3 Lt",
+      "descripcion": "Capacidad : 4.3 Lt\nMedida : Ø 25.4 cm - ∆ 15 cm\nColor : coral\nPara conservar en la heladera y llevar directamente a la mesa. Original con diseño con ventanas laterales para ver el contenido. Apilable.",
+      "precio": 27.94,
+      "capacidad": 4300,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/L5yXDd3/vision-bowl-4-3lt-1.png",
+        "https://i.ibb.co/vYFHQb3/vision-bowl-4-3lt-2.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Vision bowl 2.5 Lt",
+      "descripcion": "Capacidad : 2.5 Lt\nMedida : Ø 25.4 cm - ∆ 9 cm\nColor : verde agua\nPara conservar en la heladera y llevar directamente a la mesa. Original con diseño con ventanas laterales para ver el contenido. Apilable.",
+      "precio": 19.12,
+      "capacidad": 2500,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/C8KXV91/vision-bowl-2-5lt-1.webp",
+        "https://i.ibb.co/4dKhTdr/vision-bowl-2-5lt-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Batidor ideal 2 Lt",
+      "descripcion": "Capacidad : 2 Lt\nMedida : Ø 17.4 cm - ∆ 11 cm\nColores : lemon pie y transparente fucsia\nPara preparar, mezclar y batir ingredientes con total comodidad. Sello 100% hermetico.",
+      "precio": 8.53,
+      "capacidad": 2000,
+      "stock": 2,
+      "imgvid": [
+        "https://i.ibb.co/cgtVkGn/batidor-ideal-2lt-1.webp",
+        "https://i.ibb.co/XxhFXz3/batidor-ideal-2lt-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Batidor ideal 3.2 Lt",
+      "descripcion": "Capacidad : 3.2 Lt\nMedida : Ø 24 cm - ∆ 11 cm\nColores : rosa, transparente fucsia y uva\nPara preparar, mezclar y batir ingredientes con total comodidad. Sello 100% hermetico.",
+      "precio": 14.12,
+      "capacidad": 3200,
+      "stock": 4,
+      "imgvid": [
+        "https://i.ibb.co/FzP6qrp/batidor-ideal-3-2lt-1.png",
+        "https://i.ibb.co/BLTwGkf/batidor-ideal-3-2lt-2.png",
+        "https://i.ibb.co/DK2WM2f/batidor-ideal-3-2lt-3.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Palita dosificadora",
+      "descripcion": "Medida : 14 cm\nColor : fucsia\nPara dosificar y servir alimentos secos.",
+      "precio": 1.47,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/bs4PnmX/palita-dosificadora.webp"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Palita para servir",
+      "descripcion": "Medida : 14 cm\nColor : fucsia\nPara dosificar y servir alimentos secos.",
+      "precio": 1.47,
+      "capacidad": null,
+      "stock": 2,
+      "imgvid": ["https://i.ibb.co/pJ1fvmp/palita-para-servir.webp"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Triolet",
+      "descripcion": "Medida contenedor : Ø 9.5 cm - ∆ 9 cm\nMedida soporte : Ø 19.4 cm - ∆ 16 cm\nColor : verde lima\nPerfecto set para servir en la mesa mermelada, yerba o azúcar para un desayuno y merienda completa. Compuesto por tres contenedores de 400 ml desmontables. Sellos 100% herméticos.",
+      "precio": 13.24,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/5cFvddK/triolet.png",
+        "https://www.youtube.com/embed/v2BIbiUAiDQ"
+      ]
     }
   ]
 }
