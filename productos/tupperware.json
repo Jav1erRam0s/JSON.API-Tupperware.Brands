@@ -1043,6 +1043,66 @@
         "https://i.ibb.co/5cFvddK/triolet.png",
         "https://www.youtube.com/embed/v2BIbiUAiDQ"
       ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Porta vianda 1.5 Lt (SET)",
+      "descripcion": "Capacidad : 1.5 Lt c/u\nMedida : 22 x 14 x 7.5 cm\nColores : verde y rosa\nCuentan con un asa, para poder transportarlos comodamente y con toda seguridad.",
+      "precio": 17.06,
+      "capacidad": 1500,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/801z7bY/porta-vianda-1-5lt.png",
+        "https://www.youtube.com/embed/Ce0GLIU_1Vc"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Porta vianda 900 ml (SET)",
+      "descripcion": "Capacidad : 900 ml c/u\nMedida : 22 x 14 x 5 cm\nColores : naranja y violeta\nCuentan con un asa, para poder transportarlos comodamente y con toda seguridad.",
+      "precio": 11.47,
+      "capacidad": 900,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/VTQ9mMp/porta-vianda-900ml.png",
+        "https://www.youtube.com/embed/Ce0GLIU_1Vc"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Porta vianda 850 ml",
+      "descripcion": "Capacidad : 850 ml\nMedida : 15.2 x 15.2 x 6 cm\nColores : violeta y turquesa\nPara conservar y transportar alimentos a todos lados. Con asas en su base para mayor comodidad.",
+      "precio": 6.47,
+      "capacidad": 850,
+      "stock": 3,
+      "imgvid": [
+        "https://i.ibb.co/MSsgdX8/porta-vianda-850ml-1.webp",
+        "https://i.ibb.co/rM7zkwG/porta-vianda-850ml-2.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Porta vianda 850 ml (SET)",
+      "descripcion": "Capacidad : 850 ml c/u\nMedida : 15.2 x 15.2 x 6 cm\nColores : verde, azul y fucsia\nPara conservar y transportar alimentos a todos lados. Con asas en su base para mayor comodidad.",
+      "precio": 22.94,
+      "capacidad": 850,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/8XYkjhG/porta-vianda-850ml-set-1.png",
+        "https://i.ibb.co/bbdsKcH/porta-vianda-850ml-set-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Porta vianda 1 Lt",
+      "descripcion": "Capacidad : 1 Lt\nMedida : 25.2 x 15.5 x 5.2 cm\nColor : morado\nCon tres divisiones para llevar combinar diferentes alimentos. Sello con pestaña de gran tamaño que facilita la apertura.",
+      "precio": 8.53,
+      "capacidad": 1000,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/pygqqvv/porta-vianda-1lt-1.webp",
+        "https://i.ibb.co/qdFNTMV/porta-vianda-1lt-2.webp"
+      ]
     }
   ]
 }
