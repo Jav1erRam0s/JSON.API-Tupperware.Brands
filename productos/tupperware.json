@@ -1103,6 +1103,46 @@
         "https://i.ibb.co/pygqqvv/porta-vianda-1lt-1.webp",
         "https://i.ibb.co/qdFNTMV/porta-vianda-1lt-2.webp"
       ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Molde de silicona cupcake",
+      "descripcion": "Medida : 30 x 19.4 x 4 cm\nColor : violeta\nIdeal para preparar cupcakes o porciones individuales de soufflés, postres y milhojas de papas.",
+      "precio": 22.06,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/BzMXsFf/molde-de-silicona-cupcake-1.jpg",
+        "https://i.ibb.co/hFyRhSY/molde-de-silicona-cupcake-2.png",
+        "https://www.youtube.com/embed/lwV4O_McW5A"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Bandeja de silicona",
+      "descripcion": "Medida : 35.3 x 31.5 x 1.1 cm\nColor : violeta\nResistente desde -25°C hasta 220°C, se puede utilizar tanto en el horno como en el congelador.",
+      "precio": 23.53,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/7Xx02s2/bandeja-de-silicona-1.webp",
+        "https://i.ibb.co/KWkcVqm/bandeja-de-silicona-2.webp",
+        "https://i.ibb.co/mCrk4qL/bandeja-de-silicona-3.webp",
+        "https://i.ibb.co/stGBYJH/bandeja-de-silicona-4.webp",
+        "https://www.youtube.com/embed/bu1CXX0eMgM"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Budinera de silicona",
+      "descripcion": "Capacidad : 1.5 Lt\nMedida : 29 x 11.5 x 9 cm\nColor : violeta\nIdeal para preparar budines, quiches, soufflés y postres.",
+      "precio": 25,
+      "capacidad": 1500,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/85KXSD1/budinera-de-silicona-1.jpg",
+        "https://i.ibb.co/747kSs8/budinera-de-silicona-2.jpg"
+      ]
     }
   ]
 }
