@@ -1143,6 +1143,51 @@
         "https://i.ibb.co/85KXSD1/budinera-de-silicona-1.jpg",
         "https://i.ibb.co/747kSs8/budinera-de-silicona-2.jpg"
       ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Bowl maravilloso 1 Lt",
+      "descripcion": "Capacidad : 1 Lt\nMedida : Ø 17.5 cm - ∆ 9.5 cm\nColores : verde lima y papaya\nPara conservar alimentos en la heladera. Sello 100% hermetico a prueba de derrames.",
+      "precio": 8.24,
+      "capacidad": 1000,
+      "stock": 2,
+      "imgvid": [
+        "https://i.ibb.co/W5dp7jL/bowl-maravilloso-1lt-1.webp",
+        "https://i.ibb.co/Lzmgykc/bowl-maravilloso-1lt-2.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Bowl maravilloso (SET)",
+      "descripcion": "Capacidad : 500 ml y 1.8 Lt\nMedidas : ( Ø 14 cm ∆ 8 cm ) - ( Ø 20 cm ∆ 10.5 cm )\nColor : dorado\nPara conservar alimentos en la heladera. Sello 100% hermetico a prueba de derrames.",
+      "precio": 14.12,
+      "capacidad": 1800,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/g3SS2Pf/bowl-maravilloso-set-1.webp",
+        "https://i.ibb.co/LhV1VfJ/bowl-maravilloso-set-2.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Snack bowl 200 ml",
+      "descripcion": "Capacidad : 200 ml\nMedidas : Ø 10 cm - ∆ 5 cm\nColores : verde, violeta, verde lima y fucsia\nPara conservar y transportar snacks. Sello 100% hermético.",
+      "precio": 3.24,
+      "capacidad": 200,
+      "stock": 5,
+      "imgvid": [
+        "https://i.ibb.co/0VxNZcr/snack-bowl-200ml-1.jpg",
+        "https://i.ibb.co/k6pDPDg/snack-bowl-200ml-2.jpg"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Snack bowl 140 ml",
+      "descripcion": "Capacidad : 140 ml\nMedidas : Ø 7.5 cm - ∆ 5.1 cm\nColor : rojo\nPara conservar y transportar snacks. Sello 100% hermético.",
+      "precio": 2.65,
+      "capacidad": 140,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/cC2JvYf/snack-bowl-140ml.png"]
     }
   ]
 }
