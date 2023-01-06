@@ -1261,6 +1261,95 @@
       "capacidad": 500,
       "stock": 1,
       "imgvid": ["https://i.ibb.co/RSN9Yxz/guarda-cebolla.jpg"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Centriescurridor",
+      "descripcion": "Capacidad : 4.5 Lt\nMedidas : Ø 25.2 cm - ∆ 13.5 cm\nColor : morado\nPrepara deliciosas y saludables ensaladas de forma práctica con el centriescurridor, ideal para lavar, limpiar y secar los vegetales dejándolos frescos, limpios y listos para comer.",
+      "precio": 44.12,
+      "capacidad": 4500,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/hff4sCD/centriescurridor-1.png",
+        "https://i.ibb.co/hfJgbb1/centriescurridor-2.webp",
+        "https://i.ibb.co/7jX2PtL/centriescurridor-3.webp",
+        "https://www.youtube.com/embed/cs3NABQna2E"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Super modular rectangular",
+      "descripcion": "Capacidad : 2.8 Lt\nMedidas : 21 x 21 x 10 cm\nColor : verde\n.Ideal para almacenar alimentos secos, como galletas, granos, cereales, semillas, pastas y harinas, entre otros, conservándolos por más tiempo y en perfectas condiciones, gracias a su sello a prueba de aire que es muy fácil de colocar y retirar.",
+      "precio": 10.59,
+      "capacidad": 2800,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/rxzgcGW/super-modular-rectangular.webp"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Tazas con platos (SET)",
+      "descripcion": "Capacidad : 150 ml\nMedidas : Ø 13.3 cm (plato) ∆ 5.8 cm (taza)\nColor : negro",
+      "precio": 14.12,
+      "capacidad": 150,
+      "stock": 2,
+      "imgvid": ["https://i.ibb.co/HgjrVLc/tazas-con-platos.png"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Refri bowl",
+      "descripcion": "Capacidad : 400 ml\nMedidas : Ø 11 cm - ∆ 8 cm\nColores : turquesa, violeta y fucsia\nSu forma de tazón es ideal para conservar en la heladera porciones individuales de sopa, caldo y frutas, etc. Sello 100% hermético a prueba de derrames.",
+      "precio": 4.41,
+      "capacidad": 400,
+      "stock": 4,
+      "imgvid": ["https://i.ibb.co/K2XMB8h/refri-bowl.png"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Refri modular petit",
+      "descripcion": "Capacidad : 250 ml\nMedidas : 12 x 5 x 6.5 cm\nColor : verde\nPara conservar pequeños alimentos en la heladera.",
+      "precio": 5.29,
+      "capacidad": 250,
+      "stock": 2,
+      "imgvid": ["https://i.ibb.co/Bgqhm5p/refri-modular-petit.png"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Cristalwave redondo",
+      "descripcion": "Capacidad : 1 Lt\nMedidas : Ø 18.5 cm - ∆ 6.5 cm\nColor : verde agua\nVálvula que permite la liberación de vapores que generan los alimentos al calentarlos.",
+      "precio": 10,
+      "capacidad": 1000,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/xSmwCN6/cristalwave-redondo.webp"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Cristalwave pro taza",
+      "descripcion": "Capacidad : 470 ml\nMedidas : Ø 12 cm - ∆ 8 cm\nColor : -\nVálvula que permite la liberación de vapores que generan los alimentos al calentarlos.",
+      "precio": 6.75,
+      "capacidad": 470,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/gZDg2hq/cristalwave-pro-taza.jpg"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Cristalwave II",
+      "descripcion": "Capacidad : 500 ml\nMedidas : 17 x 13 x 5.5 cm\nColor : verde lima\nVálvula que permite la liberación de vapores que generan los alimentos al calentarlos.",
+      "precio": 6.47,
+      "capacidad": 500,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/M8nNyZM/cristalwave-II.png"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Duo dosificador con bandeja",
+      "descripcion": "Capacidad : 330 ml\nMedidas : 21 x 8 x 11.5 cm\nColores : papaya y turquesa\nCon pico para dosificar con seguridad. Con bandeja que permite transportarlos juntos con mayor seguridad.",
+      "precio": 11.47,
+      "capacidad": 330,
+      "stock": 2,
+      "imgvid": [
+        "https://i.ibb.co/cQtRyGR/duo-dosificador-con-bandeja-1.png",
+        "https://i.ibb.co/8bKd165/duo-dosificador-con-bandeja-2.png"
+      ]
     }
   ]
 }
