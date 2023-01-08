@@ -1350,6 +1350,42 @@
         "https://i.ibb.co/cQtRyGR/duo-dosificador-con-bandeja-1.png",
         "https://i.ibb.co/8bKd165/duo-dosificador-con-bandeja-2.png"
       ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Blossom bowl 500 ml",
+      "descripcion": "Capacidad : 550 ml\nMedidas : Ø 13.5 cm - ∆ 6.5 cm\nColor : verde",
+      "precio": 4.41,
+      "capacidad": 550,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/4SdBC97/blossom-bowl-500ml.png",
+        "https://i.ibb.co/f236PFk/blossom-bowl.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Blossom bowl 1.3 Lt",
+      "descripcion": "Capacidad : 1.3 Lt\nMedidas : Ø 17.5 cm - ∆ 9 cm\nColor : verde",
+      "precio": 8.24,
+      "capacidad": 1300,
+      "stock": 2,
+      "imgvid": [
+        "https://i.ibb.co/FK4YLXm/blossom-bowl-1-3lt.png",
+        "https://i.ibb.co/f236PFk/blossom-bowl.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Blossom bowl 2.5 Lt",
+      "descripcion": "Capacidad : 2.5 Lt\nMedidas : Ø 21.5 cm - ∆ 10.5 cm\nColor : verde",
+      "precio": 11.47,
+      "capacidad": 2500,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/Fb4VHRM/blossom-bowl-2-5lt.webp",
+        "https://i.ibb.co/f236PFk/blossom-bowl.png"
+      ]
     }
   ]
 }
