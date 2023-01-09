@@ -1464,6 +1464,54 @@
         "https://i.ibb.co/gt4Xxqq/superfreezee-3-7lt-3.webp",
         "https://i.ibb.co/9YVKfdS/superfreezee-3-7lt-4.webp"
       ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Multi omelette",
+      "descripcion": "Capacidad : 430 ml\nMedida : 24 x 14 x 7 cm\nColor : morado\nPara preparaciones a base de huevo en el microondas. Instrucciones de uso grabadas en el producto.",
+      "precio": 19.12,
+      "capacidad": 430,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/T1T42z1/multi-omelette-1.webp",
+        "https://i.ibb.co/VtxxnrV/multi-omelette-2.webp",
+        "https://i.ibb.co/hCCCFmn/multi-omelette-3.webp",
+        "https://i.ibb.co/mbtf4Tn/multi-omelette-4.png",
+        "https://www.youtube.com/embed/zkErteNqs8k"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Hermetico poeme 1.7 Lt",
+      "descripcion": "Capacidad : 1.7 Lt\nMedida : Ø 15.5 cm - ∆ 12 cm\nColor : morado y turquesa\nSello 100% hermetico.",
+      "precio": 8.24,
+      "capacidad": 1700,
+      "stock": 2,
+      "imgvid": [
+        "https://i.ibb.co/grqt7sG/hermetico-poeme-1-7lt-1.webp",
+        "https://i.ibb.co/z8Lh5V8/hermetico-poeme-1-7lt-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Freezer time 3.1 Lt",
+      "descripcion": "Capacidad : 3.1 Lt\nMedida : 30 x 22 x 8 cm\nColor : verde claro",
+      "precio": 15.88,
+      "capacidad": 3100,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/hcCJ1Yv/freezer-time-3-1lt-1.png",
+        "https://i.ibb.co/f4K6n9N/freezer-time-3-1lt-2.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Freezer time 1.5 Lt",
+      "descripcion": "Capacidad : 1.5 Lt\nMedida : 22 x 15 x 8 cm\nColor : verde claro",
+      "precio": 10.59,
+      "capacidad": 1500,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/p0wNGcN/freezer-time-1-5lt.webp"]
     }
   ]
 }
