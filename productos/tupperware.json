@@ -1512,6 +1512,101 @@
       "capacidad": 1500,
       "stock": 1,
       "imgvid": ["https://i.ibb.co/p0wNGcN/freezer-time-1-5lt.webp"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Bowl (SET)",
+      "descripcion": "Compuesto de 4 unidades 700 ml c/u\nMedida : 16.5 x 16.5 x 6.5 cm\nColor : turquesa",
+      "precio": 13.24,
+      "capacidad": 700,
+      "stock": 4,
+      "imgvid": [
+        "https://i.ibb.co/WGD020V/bowl-set-1.webp",
+        "https://i.ibb.co/NgqjMnV/bowl-set-2.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Box 400 ml",
+      "descripcion": "Capacidad : 400 ml\nMedida : 13.5 x 12.5 x 3.7 cm\nColor : verde lima y transparente",
+      "precio": 4.71,
+      "capacidad": 400,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/JCfBGsW/box-400ml-1.webp",
+        "https://i.ibb.co/vPTwxF2/box-400ml-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Box 750 ml",
+      "descripcion": "Capacidad : 750 ml\nMedida : 22.5 x 12.8 x 4 cm\nColor : manzana y transparente",
+      "precio": 8.24,
+      "capacidad": 750,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/8KYRm7h/box-750ml-1.webp",
+        "https://i.ibb.co/G7YX8fg/box-750ml-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Hermetico corazon",
+      "descripcion": "Medida : 11.8 x 13 x 5 cm\nColor : bordo\nPara guardar pequeños elementos y accesorios.",
+      "precio": 8.24,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/yPxZgG4/hermetico-corazon-1.webp",
+        "https://i.ibb.co/HY9bptZ/hermetico-corazon-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Plativolos mediano (SET)",
+      "descripcion": "Capacidad : 275 ml\nMedida : Ø 9 cm - ∆ 4 cm\nColor : rosa claro\nPara preparar, transportar, servir y almacenar porciones. Sello 100% hermético, ofrece un traslado seguro. Pestaña doble orejitas para abrir con facilidad.",
+      "precio": 13.53,
+      "capacidad": 275,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/GnG8n7c/plativolos-mediano-set.png"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Flexiaccesorios",
+      "descripcion": "Capacidad : 200 ml\nMedida : Ø 9 cm - ∆ 4 cm\nColor : verde y naranja\nEl material flexible de la parte superior te permite hacer crecer el Flexiaccesorio si contiene demasiadas cosas, sin perder su firmeza y rigidez.",
+      "precio": 7.65,
+      "capacidad": 200,
+      "stock": 2,
+      "imgvid": [
+        "https://i.ibb.co/dfT7SQn/flexiaccesorios-1.webp",
+        "https://i.ibb.co/pQLJ6cB/flexiaccesorios-2.webp",
+        "https://i.ibb.co/ZKJ3t3x/flexiaccesorios-3.webp",
+        "https://i.ibb.co/cv5XP5g/flexiaccesorios-4.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Contenedor apilable",
+      "descripcion": "Capacidad : 425 ml\nMedida : Ø 13 cm - ∆ 7 cm\nColor : rojo y amarillo\nPerfecto para conservar porciones individuales en la heladera y transportar a la mesa de forma segura. Con su sello hermético especial para unirse al recipiente por debajo para que no se pierda. Se gira y se une un contenedor al otro.",
+      "precio": 6.76,
+      "capacidad": 425,
+      "stock": 3,
+      "imgvid": [
+        "https://i.ibb.co/rQTrKDJ/contenedor-apilable-1.webp",
+        "https://i.ibb.co/c8z21XY/contenedor-apilable-2.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Hermetico toque magico 3.1 Lt",
+      "descripcion": "Capacidad : 3.1 Lt\nMedida : Ø 17 cm - ∆ 19.5 cm\nColores : navidad y rosa\nPara mantener los alimentos secos libres de humedad por mas tiempo.",
+      "precio": 14.41,
+      "capacidad": 3100,
+      "stock": 4,
+      "imgvid": [
+        "https://i.ibb.co/gRShm1F/hermetico-toque-magico-3-1lt-1.webp",
+        "https://i.ibb.co/q5DGDwq/hermetico-toque-magico-3-1lt-2.jpg"
+      ]
     }
   ]
 }
