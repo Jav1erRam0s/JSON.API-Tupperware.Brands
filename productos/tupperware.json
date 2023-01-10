@@ -1607,6 +1607,101 @@
         "https://i.ibb.co/gRShm1F/hermetico-toque-magico-3-1lt-1.webp",
         "https://i.ibb.co/q5DGDwq/hermetico-toque-magico-3-1lt-2.jpg"
       ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Vaporiera crystal pop",
+      "descripcion": "Capacidad : 2.5 Lt\nMedida : Ø 22 cm - ∆ 13.5 cm\nColores : violeta\nMuchas veces nos cuesta comer sano, pero con Crystal Pop Vaporiera podés cocinar verduras y hortalizas al vapor de forma rápida y sencilla en el microondas.",
+      "precio": 23.24,
+      "capacidad": 2500,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/QMmyhky/vaporiera-crystal-pop-1.jpg",
+        "https://i.ibb.co/9bVxhMM/vaporiera-crystal-pop-2.jpg",
+        "https://www.youtube.com/embed/dw3S688ofC0"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Bowl 180 ml",
+      "descripcion": "Capacidad : 180 ml\nMedida : Ø 22 cm - ∆ 13.5 cm\nColor : lila",
+      "precio": 3.53,
+      "capacidad": 180,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/6BW7gHt/bowl-180ml.png"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Hermetico poeme 500 ml",
+      "descripcion": "Capacidad : 500 ml\nMedida : Ø 11 cm - ∆ 9 cm\nColores : turquesa, violeta, marilyn, uva, minions, navidad, rojo y verde\nSello 100% hermetico.",
+      "precio": 4.71,
+      "capacidad": 500,
+      "stock": 9,
+      "imgvid": [
+        "https://i.ibb.co/Wk1GtsR/hermetico-poeme-500ml-1.png",
+        "https://i.ibb.co/hYczvPT/hermetico-poeme-500ml-2.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Instant massa",
+      "descripcion": "Capacidad : 1.9 Lt\nMedida : Ø 11 cm - ∆ 9 cm\nColor : violeta, marilyn, uva, minions, navidad, rojo y verde\nSello 100% hermetico.",
+      "precio": 13.82,
+      "capacidad": 1900,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/NVCMsKn/instant-massa-1.jpg",
+        "https://i.ibb.co/RHVy40B/instant-massa-2.jpg",
+        "https://i.ibb.co/KhXDwHp/instant-massa-3.png",
+        "https://www.youtube.com/embed/XXdfSlo7ze8"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Hermetico poeme 950 ml",
+      "descripcion": "Capacidad : 950 ml\nMedida : Ø 17 cm - ∆ 7 cm\nColor : fucsia con decoracion\nSello 100% hermetico.",
+      "precio": 6.18,
+      "capacidad": 950,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/47g92DS/hermetico-poeme-950ml.webp"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Porta torta",
+      "descripcion": "Soporta hasta 3.5 kilos\nMedida : Ø 30 cm - ∆ 9 cm\nColor : verde agua\nPara trasladar tortas, tartas y otros postres de forma cómoda, manteniendo las preparaciones en perfectas condiciones. Además, su bandeja es reversible y permite usarse también para servir y trasladar picadas.",
+      "precio": 18.24,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/JKXzVBV/porta-torta-1.webp",
+        "https://i.ibb.co/Xy5sYkD/porta-torta-2.png",
+        "https://www.youtube.com/embed/tEswaFpPRu0"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Modular rectangular 2 Lt",
+      "descripcion": "Capacidad : 2 Lt\nMedida : 28.5 x 18.5 x 6 cm\nColor : morado y verde lima\nAhorra espacio en la alacena. Sello hermetico. Con ventana transparente que permite ver el contenido. Apilable.",
+      "precio": 11.18,
+      "capacidad": 2000,
+      "stock": 4,
+      "imgvid": [
+        "https://i.ibb.co/DK95wfP/modular-rectangular-2lt-1.webp",
+        "https://i.ibb.co/YZwVG7F/modular-rectangular-2lt-2.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Colador",
+      "descripcion": "Capacidad : 2 Lt\nMedida : Ø 21 cm - ∆ 10 cm\nColor : verde agua\nCon dos picos vertedores. Ideal para diestros y zurdos. Pestaña que permite apoyarlo en una olla o en la bacha de la cocina para que la preparación se escurra perfectamente.",
+      "precio": 9.12,
+      "capacidad": 2000,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/3Y8vZ0k/colador-1.webp",
+        "https://i.ibb.co/rfwmR8n/colador-2.webp",
+        "https://i.ibb.co/C8RGJLK/colador-3.webp"
+      ]
     }
   ]
 }
