@@ -819,10 +819,10 @@
     {
       "codigo": "62587-8",
       "nombre": "Vaso",
-      "descripcion": "Capacidad : 350 ml\nMedida : Ø 7.5 cm - ∆ 13.5 cm\nColores : violeta y agua marina",
+      "descripcion": "Capacidad : 350 ml\nMedida : Ø 7.5 cm - ∆ 13.5 cm\nColores : violeta, malva y agua marina",
       "precio": 2.88,
       "capacidad": 350,
-      "stock": 4,
+      "stock": 5,
       "imgvid": [
         "https://i.ibb.co/rx7wJdM/vaso-1.webp",
         "https://i.ibb.co/Fhd05Qt/vaso-2.webp"
@@ -1830,6 +1830,15 @@
         "https://i.ibb.co/ZYmTt0b/quesera-inteligente-1.jpg",
         "https://i.ibb.co/PGVDycQ/quesera-inteligente-2.png"
       ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Practidosificador azucar",
+      "descripcion": "Capacidad : 310 ml\nMedida : Ø 8 cm - ∆ 15.5 cm\nColor : azucar\nCon tapa sello 100% hermético.",
+      "precio": 3.82,
+      "capacidad": 310,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/7nqh45g/practidosificador-azucar-310ml.webp"]
     }
   ]
 }
