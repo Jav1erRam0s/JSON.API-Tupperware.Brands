@@ -29,6 +29,36 @@
       "capacidad": null,
       "stock": 1,
       "imgvid": ["https://i.ibb.co/wd8RkDv/juego-de-cubiertos-carol.webp"]
+    },
+    {
+      "codigo": "62850-8",
+      "nombre": "Mate chico",
+      "descripcion": "Color : turquesa",
+      "precio": 3.24,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/GdPgWDB/mate-chico.png"]
+    },
+    {
+      "codigo": "62850-8",
+      "nombre": "Mate grande",
+      "descripcion": "Color : aqua",
+      "precio": 3.82,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/rymVmmT/mate-grande.jpg"]
+    },
+    {
+      "codigo": "62850-8",
+      "nombre": "Pistola decoradora",
+      "descripcion": "Con 16 picos intercambiables\nColor : lila",
+      "precio": 4.41,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/kgJhN4k/pistola-decoradora-1.jpg",
+        "https://i.ibb.co/G2f5H7t/pistola-decoradora-2.jpg"
+      ]
     }
   ]
 }
