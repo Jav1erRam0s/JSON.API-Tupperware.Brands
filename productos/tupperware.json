@@ -1324,11 +1324,14 @@
     {
       "codigo": "62587-8",
       "nombre": "Cristalwave pro taza",
-      "descripcion": "Capacidad : 470 ml\nMedida : Ø 12 cm - ∆ 8 cm\nColor : -\nVálvula que permite la liberación de vapores que generan los alimentos al calentarlos.",
+      "descripcion": "Capacidad : 470 ml\nMedida : Ø 12 cm - ∆ 8 cm\nColor : rojo\nVálvula que permite la liberación de vapores que generan los alimentos al calentarlos.",
       "precio": 6.75,
       "capacidad": 470,
       "stock": 1,
-      "imgvid": ["https://i.ibb.co/gZDg2hq/cristalwave-pro-taza.jpg"]
+      "imgvid": [
+        "https://i.ibb.co/gZDg2hq/cristalwave-pro-taza.jpg",
+        "https://www.youtube.com/embed/A7A3HbF2ABE"
+      ]
     },
     {
       "codigo": "62587-8",
@@ -1516,7 +1519,7 @@
     {
       "codigo": "62587-8",
       "nombre": "Bowl (SET)",
-      "descripcion": "Compuesto de 4 unidades 700 ml c/u\nMedida : 16.5 x 16.5 x 6.5 cm\nColor : turquesa",
+      "descripcion": "Compuesto por 4 unidades de 700 ml c/u\nMedida : 16.5 x 16.5 x 6.5 cm\nColor : turquesa",
       "precio": 13.24,
       "capacidad": 700,
       "stock": 4,
@@ -1701,6 +1704,131 @@
         "https://i.ibb.co/3Y8vZ0k/colador-1.webp",
         "https://i.ibb.co/rfwmR8n/colador-2.webp",
         "https://i.ibb.co/C8RGJLK/colador-3.webp"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Century bowl cuadrado",
+      "descripcion": "Capacidad : 620 ml\nMedida : 14.5 x 14.5 x 6.5 cm\nColores : naranja y amarillo\nSu material de policarbonato, los hace altamente resistentes y de primera calidad, además simulan la textura y la transparencia del vidrio.",
+      "precio": 6.47,
+      "capacidad": 620,
+      "stock": 2,
+      "imgvid": [
+        "https://i.ibb.co/PWTBkwk/century-bowl-cuadrado-1.png",
+        "https://i.ibb.co/t4XYZ37/century-bowl-cuadrado-2.jpg"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Espatula",
+      "descripcion": "Medida : 22 cm\nColores : rosa y coral\nBordes biselados. Su ranura permite incorporar mejor los ingredientes al mezclar.",
+      "precio": 6.47,
+      "capacidad": null,
+      "stock": 2,
+      "imgvid": [
+        "https://i.ibb.co/yq5mg41/espatula-1.png",
+        "https://i.ibb.co/28v9x8S/espatula-2.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Multi descorazonador",
+      "descripcion": "Medida : 16.5 x 3 cm\nColor : negro\nPráctico descorazonador, que permite remover centros, semillas y fibras de frutas y vegetales blandos o ahuecados.",
+      "precio": 3.53,
+      "capacidad": null,
+      "stock": 4,
+      "imgvid": [
+        "https://i.ibb.co/B6TZ0S1/multi-descorazonador-1.jpg",
+        "https://i.ibb.co/8mpB413/multi-descorazonador-2.jpg",
+        "https://i.ibb.co/m9T1Dgb/multi-descorazonador-3.webp",
+        "https://i.ibb.co/XjX6Htk/multi-descorazonador-4.jpg"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Separador de yemas",
+      "descripcion": "Medida : 11.7 cm\nColor : fucsia",
+      "precio": 1.91,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": ["https://i.ibb.co/2FX2hvf/separador-de-yemas.webp"]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Hielera actualite",
+      "descripcion": "Capacidad : 2 Lt\nMedida : Ø 14 cm - ∆ 13.5 cm\nColor : verde lima\nSe adapta a la cubetera gajitos para desmoldar los hielos directamente en la hielera.\nCapacidad 4 cubeteras gajitos.",
+      "precio": 7.65,
+      "capacidad": 2000,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/BTxQMTR/hielera-actualite-1.webp",
+        "https://i.ibb.co/4Rn8tZ5/hielera-actualite-2.png",
+        "https://www.youtube.com/embed/CDf1J4T4VIc"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Cubetera gajitos",
+      "descripcion": "Medida : Ø 14 cm - ∆ 3.5 cm\nColor : lavanda",
+      "precio": 4.12,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/gZppHRQ/cubetera-gajitos.webp",
+        "https://www.youtube.com/embed/CDf1J4T4VIc"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Meditazas (SET)",
+      "descripcion": "Compuesto por 6 unidades de distintas medidas.\nMedida : 1 tz - 3/4 tz - 2/3 tz - 1/2 tz - 1/3 tz - 1/4 tz\nColor : morado",
+      "precio": 10.59,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/58cH4pF/Meditazas-1.webp",
+        "https://i.ibb.co/s3rTzZL/Meditazas-2.jpg",
+        "https://i.ibb.co/j4V528y/Meditazas-3.jpg"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Hermetico toque magico 575 ml",
+      "descripcion": "Capacidad : 575 ml\nMedida : Ø 13 cm - ∆ 8 cm\nColores : navidad, delft y unicornio\nPara mantener los alimentos secos libres de humedad por mas tiempo o guardar accesorios y tenerlos siempre a mano.",
+      "precio": 5,
+      "capacidad": 575,
+      "stock": 13,
+      "imgvid": [
+        "https://i.ibb.co/LNTrL8V/hermetico-toque-magico-575ml-1.png",
+        "https://i.ibb.co/ngHyZ1t/hermetico-toque-magico-575ml-2.png",
+        "https://i.ibb.co/m4sYVVG/hermetico-toque-magico-575ml-3.png",
+        "https://i.ibb.co/X8xr37C/hermetico-toque-magico-575ml-4.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Hermetico toque magico 1.25 Lt",
+      "descripcion": "Capacidad : 1.25 Lt\nMedida : Ø 11.8 cm - ∆ 15 cm\nColores : delft, decorado, fileteado cisne y jacaranda\nPara mantener los alimentos secos libres de humedad por mas tiempo o guardar accesorios y tenerlos siempre a mano.",
+      "precio": 10,
+      "capacidad": 1250,
+      "stock": 10,
+      "imgvid": [
+        "https://i.ibb.co/0tZMd3g/hermetico-toque-magico-1-25lt-1.png",
+        "https://i.ibb.co/CHkw553/hermetico-toque-magico-1-25lt-2.png",
+        "https://i.ibb.co/BrT8xz7/hermetico-toque-magico-1-25lt-3.png",
+        "https://i.ibb.co/mSPWXZd/hermetico-toque-magico-1-25lt-4.png"
+      ]
+    },
+    {
+      "codigo": "62587-8",
+      "nombre": "Quesera inteligente",
+      "descripcion": "Capacidad : 500 gr\nMedida : Ø 15.8 x 15.2 x 7.2 cm\nColor : turquesa\nIdeal para conservar en la heladera todo tipo de quesos. Rejilla incorporada con exclusivo Sistema Condens ControlTM que absorbe la humedad, evitando la condensación dentro de la quesera. No retirar, ni perforar la película protectora de la rejilla",
+      "precio": 11.18,
+      "capacidad": null,
+      "stock": 1,
+      "imgvid": [
+        "https://i.ibb.co/ZYmTt0b/quesera-inteligente-1.jpg",
+        "https://i.ibb.co/PGVDycQ/quesera-inteligente-2.png"
       ]
     }
   ]
