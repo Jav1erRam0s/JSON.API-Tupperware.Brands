@@ -387,7 +387,7 @@
     {
       "codigo": "62587-8",
       "nombre": "Picadora chef",
-      "descripcion": "Medida : 27 x 13 x 25 cm",
+      "descripcion": "Medida : 27 x 13 x 25 cm\nIdeal para picar todo tipo de carnes, preparar embutidos saludables y rellenar pastas secas en forma rápida y sin esfuerzo. Cuenta con un disco para picado grueso, un disco para picado fino y accesorio para rellenar.",
       "precio": 86.53,
       "capacidad": null,
       "stock": 1,
@@ -1751,7 +1751,10 @@
       "precio": 1.91,
       "capacidad": null,
       "stock": 1,
-      "imgvid": ["https://i.ibb.co/2FX2hvf/separador-de-yemas.webp"]
+      "imgvid": [
+        "https://i.ibb.co/2FX2hvf/separador-de-yemas.webp",
+        "https://www.youtube.com/embed/ZQFIxnOXOaE"
+      ]
     },
     {
       "codigo": "62587-8",
