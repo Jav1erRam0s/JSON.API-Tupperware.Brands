@@ -512,7 +512,7 @@
       "descripcion": "Capacidad : 10 Lt\nMedida : Ø 30.5 cm - ∆ 18 cm\nColor : lila\nPara mezclar, amasar y dejar levar. El sello salta solo avisando que la masa ya levó.",
       "precio": 28.85,
       "capacidad": 10000,
-      "stock": 2,
+      "stock": 3,
       "imgvid": ["https://i.ibb.co/NWm88qh/bowl-creativa-10-lt.png"]
     },
     {
@@ -1183,11 +1183,17 @@
     {
       "codigo": "62587-8",
       "nombre": "Snack bowl 140 ml",
-      "descripcion": "Capacidad : 140 ml\nMedidas : Ø 7.5 cm - ∆ 5.1 cm\nColor : rojo\nPara conservar y transportar snacks. Sello 100% hermético.",
+      "descripcion": "Capacidad : 140 ml\nMedidas : Ø 7.5 cm - ∆ 5.1 cm\nColor : rojo, oregano, romero y provenzal\nPara conservar y transportar snacks. Sello 100% hermético.",
       "precio": 2.65,
       "capacidad": 140,
-      "stock": 1,
-      "imgvid": ["https://i.ibb.co/VN8hXwM/snack-bowl-140ml.png"]
+      "stock": 4,
+      "imgvid": [
+        "https://i.ibb.co/VN8hXwM/snack-bowl-140ml.png",
+        "https://i.ibb.co/4KRBqkM/snack-bowl-oregano-140ml.webp",
+        "https://i.ibb.co/NpFZRXv/snack-bowl-romero-140ml.webp",
+        "https://i.ibb.co/fnHpS7p/snack-bowl-provenzal-140ml.webp",
+        "https://i.ibb.co/9V0P3hk/snack-bowl-setx3-140ml.webp"
+      ]
     },
     {
       "codigo": "62587-8",
